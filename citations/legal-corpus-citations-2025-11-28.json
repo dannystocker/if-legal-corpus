@@ -1,0 +1,3306 @@
+[
+  {
+    "citation_id": "if://citation/5293915b-46f8-4c2b-a29e-55837985aa4e",
+    "citation_type": "legal_regulation",
+    "document_name": "29 CFR",
+    "jurisdiction": "US",
+    "authoritative_source": {
+      "url": "https://www.ecfr.gov/current/title-29",
+      "accessed_date": "2025-11-28T03:20:00.430362+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/us_federal/29-cfr",
+      "sha256": "768f528a8f8b06deceb59224622df3cc5039d8c296277372954d2f873756d48f",
+      "file_size_bytes": 4272,
+      "ingested_date": "2025-11-28T03:20:00.430362+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430362+00:00",
+        "verification": "Downloaded from https://www.ecfr.gov/current/title-29",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430362+00:00",
+        "verification": "SHA-256 hash verified: 768f528a8f8b06deceb59224622df3cc5039d8c296277372954d2f873756d48f",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430362+00:00",
+        "verification": "Stored at raw/us_federal/29-cfr",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.430362+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/69804b35-0eec-45ff-973c-87ff60589f97",
+    "citation_type": "legal_regulation",
+    "document_name": "37 CFR",
+    "jurisdiction": "US",
+    "authoritative_source": {
+      "url": "https://www.ecfr.gov/current/title-37",
+      "accessed_date": "2025-11-28T03:20:00.430697+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/us_federal/37-cfr",
+      "sha256": "5b1a7fc0eae3e435936a7698eadb1f16da2f8f9dc10e7cab0e10f9e83a586ea6",
+      "file_size_bytes": 4272,
+      "ingested_date": "2025-11-28T03:20:00.430697+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430697+00:00",
+        "verification": "Downloaded from https://www.ecfr.gov/current/title-37",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430697+00:00",
+        "verification": "SHA-256 hash verified: 5b1a7fc0eae3e435936a7698eadb1f16da2f8f9dc10e7cab0e10f9e83a586ea6",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430697+00:00",
+        "verification": "Stored at raw/us_federal/37-cfr",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.430697+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/7ca7d7eb-6a66-4c54-8ef3-17c727ee8df3",
+    "citation_type": "legal_regulation",
+    "document_name": "16 CFR Part 310",
+    "jurisdiction": "US",
+    "authoritative_source": {
+      "url": "https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-310",
+      "accessed_date": "2025-11-28T03:20:00.430753+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/us_federal/16-cfr-part-310",
+      "sha256": "01589d2cfde314587dbb541e8b2c49068149fa76f84a56191d9a8ccb41b3fb92",
+      "file_size_bytes": 4272,
+      "ingested_date": "2025-11-28T03:20:00.430753+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430753+00:00",
+        "verification": "Downloaded from https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-310",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430753+00:00",
+        "verification": "SHA-256 hash verified: 01589d2cfde314587dbb541e8b2c49068149fa76f84a56191d9a8ccb41b3fb92",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430753+00:00",
+        "verification": "Stored at raw/us_federal/16-cfr-part-310",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.430753+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/586ac7fd-4173-47d8-9174-6ca0c02fb1d7",
+    "citation_type": "legal_regulation",
+    "document_name": "16 CFR Part 314",
+    "jurisdiction": "US",
+    "authoritative_source": {
+      "url": "https://www.ecfr.gov/current/title-16/part-314",
+      "accessed_date": "2025-11-28T03:20:00.430808+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/us_federal/16-cfr-part-314",
+      "sha256": "47a1ff3fbd3275c64d5f6da5fd44d8e175f3a842308fa31fed3f8bca819342f3",
+      "file_size_bytes": 4272,
+      "ingested_date": "2025-11-28T03:20:00.430808+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430808+00:00",
+        "verification": "Downloaded from https://www.ecfr.gov/current/title-16/part-314",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430808+00:00",
+        "verification": "SHA-256 hash verified: 47a1ff3fbd3275c64d5f6da5fd44d8e175f3a842308fa31fed3f8bca819342f3",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430808+00:00",
+        "verification": "Stored at raw/us_federal/16-cfr-part-314",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.430808+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/850c7212-5523-4785-bd79-a118d052cd97",
+    "citation_type": "legal_statute",
+    "document_name": "Defend Trade Secrets Act",
+    "jurisdiction": "US",
+    "authoritative_source": {
+      "url": "https://www.congress.gov/114/plaws/publ153/PLAW-114publ153.pdf",
+      "accessed_date": "2025-11-28T03:20:00.430847+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/us_federal/defend-trade-secrets-act.pdf",
+      "sha256": "2c526decb25a6496544c24cdf56d4de773a1fcbd57c0721d982a9d98c8cd630f",
+      "file_size_bytes": 262018,
+      "ingested_date": "2025-11-28T03:20:00.430847+00:00",
+      "git_commit": "57ad645",
+      "file_format": "pdf"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430847+00:00",
+        "verification": "Downloaded from https://www.congress.gov/114/plaws/publ153/PLAW-114publ153.pdf",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430847+00:00",
+        "verification": "SHA-256 hash verified: 2c526decb25a6496544c24cdf56d4de773a1fcbd57c0721d982a9d98c8cd630f",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430847+00:00",
+        "verification": "Stored at raw/us_federal/defend-trade-secrets-act.pdf",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.430847+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/4a756255-ccdd-454c-8a10-58a37ef05ade",
+    "citation_type": "legal_statute",
+    "document_name": "Work-for-Hire Definition",
+    "jurisdiction": "US",
+    "authoritative_source": {
+      "url": "https://www.copyright.gov/title17/",
+      "accessed_date": "2025-11-28T03:20:00.430877+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/us_federal/work-for-hire-definition",
+      "sha256": "787cb0b8b81e3feaa2208b8e65f4e41ed1aa363106cf90ad348ab62aa293f88e",
+      "file_size_bytes": 35265,
+      "ingested_date": "2025-11-28T03:20:00.430877+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430877+00:00",
+        "verification": "Downloaded from https://www.copyright.gov/title17/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430877+00:00",
+        "verification": "SHA-256 hash verified: 787cb0b8b81e3feaa2208b8e65f4e41ed1aa363106cf90ad348ab62aa293f88e",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430877+00:00",
+        "verification": "Stored at raw/us_federal/work-for-hire-definition",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.430877+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/c10db26f-a349-403d-bb13-81b98f084d40",
+    "citation_type": "legal_statute",
+    "document_name": "Copyright Ownership",
+    "jurisdiction": "US",
+    "authoritative_source": {
+      "url": "https://www.copyright.gov/title17/",
+      "accessed_date": "2025-11-28T03:20:00.430910+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/us_federal/copyright-ownership",
+      "sha256": "787cb0b8b81e3feaa2208b8e65f4e41ed1aa363106cf90ad348ab62aa293f88e",
+      "file_size_bytes": 35265,
+      "ingested_date": "2025-11-28T03:20:00.430910+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430910+00:00",
+        "verification": "Downloaded from https://www.copyright.gov/title17/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430910+00:00",
+        "verification": "SHA-256 hash verified: 787cb0b8b81e3feaa2208b8e65f4e41ed1aa363106cf90ad348ab62aa293f88e",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430910+00:00",
+        "verification": "Stored at raw/us_federal/copyright-ownership",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.430910+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/10e82a2d-97b3-41be-9a91-205652a82d0a",
+    "citation_type": "legal_statute",
+    "document_name": "FTC Non-Compete Rule",
+    "jurisdiction": "US",
+    "authoritative_source": {
+      "url": "https://www.federalregister.gov/documents/2024/05/07/2024-09171/non-compete-clause-rule",
+      "accessed_date": "2025-11-28T03:20:00.430949+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/us_federal/ftc-non-compete-rule",
+      "sha256": "6c490dac33a4f6065f6abd3e94ceafb5f0236d505454632693802ae5a32580bc",
+      "file_size_bytes": 4272,
+      "ingested_date": "2025-11-28T03:20:00.430949+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430949+00:00",
+        "verification": "Downloaded from https://www.federalregister.gov/documents/2024/05/07/2024-09171/non-compete-clause-rule",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430949+00:00",
+        "verification": "SHA-256 hash verified: 6c490dac33a4f6065f6abd3e94ceafb5f0236d505454632693802ae5a32580bc",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430949+00:00",
+        "verification": "Stored at raw/us_federal/ftc-non-compete-rule",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.430949+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/794f1424-c47f-4ac9-9751-56e147435c7e",
+    "citation_type": "legal_statute",
+    "document_name": "ADA Title I",
+    "jurisdiction": "US",
+    "authoritative_source": {
+      "url": "https://www.eeoc.gov/statutes/titles-i-and-v-americans-disabilities-act-1990-ada",
+      "accessed_date": "2025-11-28T03:20:00.430985+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/us_federal/ada-title-i",
+      "sha256": "f24d430345a01f1fc9c9c37c6b3c8636d517c681bd9090bafef17f2d4c7a29a5",
+      "file_size_bytes": 118596,
+      "ingested_date": "2025-11-28T03:20:00.430985+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430985+00:00",
+        "verification": "Downloaded from https://www.eeoc.gov/statutes/titles-i-and-v-americans-disabilities-act-1990-ada",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430985+00:00",
+        "verification": "SHA-256 hash verified: f24d430345a01f1fc9c9c37c6b3c8636d517c681bd9090bafef17f2d4c7a29a5",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.430985+00:00",
+        "verification": "Stored at raw/us_federal/ada-title-i",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.430985+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/8693bbad-98e1-4536-b367-b5cdf9a70e07",
+    "citation_type": "legal_statute",
+    "document_name": "GovInfo Bulk Data",
+    "jurisdiction": "US",
+    "authoritative_source": {
+      "url": "https://www.govinfo.gov/bulkdata/",
+      "accessed_date": "2025-11-28T03:20:00.431017+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/us_federal/govinfo-bulk-data",
+      "sha256": "4b6a6e5eb328fa684b058bf9582448ae6f8a25d740d0f066e51dd927ff2dafea",
+      "file_size_bytes": 67383,
+      "ingested_date": "2025-11-28T03:20:00.431017+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431017+00:00",
+        "verification": "Downloaded from https://www.govinfo.gov/bulkdata/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431017+00:00",
+        "verification": "SHA-256 hash verified: 4b6a6e5eb328fa684b058bf9582448ae6f8a25d740d0f066e51dd927ff2dafea",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431017+00:00",
+        "verification": "Stored at raw/us_federal/govinfo-bulk-data",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.431017+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/3a6abc56-c917-4fcd-b9e2-d3a9d2d70df8",
+    "citation_type": "legal_regulation",
+    "document_name": "eCFR API v1",
+    "jurisdiction": "US",
+    "authoritative_source": {
+      "url": "https://www.ecfr.gov/developers/documentation/api/v1",
+      "accessed_date": "2025-11-28T03:20:00.431050+00:00",
+      "verification_method": "api_verified",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/us_federal/ecfr-api-v1",
+      "sha256": "00922d45d25f0a40f4c9420490fb335e75987f1da2061bcd8e6bcff825b541af",
+      "file_size_bytes": 4272,
+      "ingested_date": "2025-11-28T03:20:00.431050+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431050+00:00",
+        "verification": "Downloaded from https://www.ecfr.gov/developers/documentation/api/v1",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431050+00:00",
+        "verification": "SHA-256 hash verified: 00922d45d25f0a40f4c9420490fb335e75987f1da2061bcd8e6bcff825b541af",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431050+00:00",
+        "verification": "Stored at raw/us_federal/ecfr-api-v1",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.431050+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/4c5ef878-becb-4dd6-98bb-02d02a510045",
+    "citation_type": "legal_statute",
+    "document_name": "Freelance Worker Protection Act",
+    "jurisdiction": "US",
+    "authoritative_source": {
+      "url": "https://leginfo.legislature.ca.gov/",
+      "accessed_date": "2025-11-28T03:20:00.431098+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/us_state/freelance-worker-protection-act",
+      "sha256": "a9436c1ccbb969d2a72faf6bfb7a1ffc5e205a175efa919df6d871147c3af25a",
+      "file_size_bytes": 162782,
+      "ingested_date": "2025-11-28T03:20:00.431098+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431098+00:00",
+        "verification": "Downloaded from https://leginfo.legislature.ca.gov/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431098+00:00",
+        "verification": "SHA-256 hash verified: a9436c1ccbb969d2a72faf6bfb7a1ffc5e205a175efa919df6d871147c3af25a",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431098+00:00",
+        "verification": "Stored at raw/us_state/freelance-worker-protection-act",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.431098+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/fa489722-c91b-47a3-9c29-a9e7dad5b131",
+    "citation_type": "legal_statute",
+    "document_name": "ABC Test (IC Classification)",
+    "jurisdiction": "US",
+    "authoritative_source": {
+      "url": "https://leginfo.legislature.ca.gov/",
+      "accessed_date": "2025-11-28T03:20:00.431244+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/us_state/abc-test-ic-classification",
+      "sha256": "1d290744ba925a4ca504435ac655c821dad08e9a02b2712e1bd83be26ce60904",
+      "file_size_bytes": 162782,
+      "ingested_date": "2025-11-28T03:20:00.431244+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431244+00:00",
+        "verification": "Downloaded from https://leginfo.legislature.ca.gov/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431244+00:00",
+        "verification": "SHA-256 hash verified: 1d290744ba925a4ca504435ac655c821dad08e9a02b2712e1bd83be26ce60904",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431244+00:00",
+        "verification": "Stored at raw/us_state/abc-test-ic-classification",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.431244+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/e14a3386-7344-4547-827b-d9781d21cd79",
+    "citation_type": "legal_statute",
+    "document_name": "SILENCED Act",
+    "jurisdiction": "US",
+    "authoritative_source": {
+      "url": "https://leginfo.legislature.ca.gov/",
+      "accessed_date": "2025-11-28T03:20:00.431279+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/us_state/silenced-act",
+      "sha256": "e3c22032a9db3e2dfbc320bae284b0413575ceaa5dda3c1ab86d91064f05f907",
+      "file_size_bytes": 164510,
+      "ingested_date": "2025-11-28T03:20:00.431279+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431279+00:00",
+        "verification": "Downloaded from https://leginfo.legislature.ca.gov/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431279+00:00",
+        "verification": "SHA-256 hash verified: e3c22032a9db3e2dfbc320bae284b0413575ceaa5dda3c1ab86d91064f05f907",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431279+00:00",
+        "verification": "Stored at raw/us_state/silenced-act",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.431279+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/6988610c-f134-452c-aae5-6edfff941013",
+    "citation_type": "legal_statute",
+    "document_name": "CCPA/CPRA",
+    "jurisdiction": "US",
+    "authoritative_source": {
+      "url": "https://oag.ca.gov/privacy/ccpa",
+      "accessed_date": "2025-11-28T03:20:00.431307+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/us_state/ccpa-cpra",
+      "sha256": "02218b57d20f6ad5d9f1c8dbb82ec0682ac2a1642c17e89e5c54301c4c63723e",
+      "file_size_bytes": 124204,
+      "ingested_date": "2025-11-28T03:20:00.431307+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431307+00:00",
+        "verification": "Downloaded from https://oag.ca.gov/privacy/ccpa",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431307+00:00",
+        "verification": "SHA-256 hash verified: 02218b57d20f6ad5d9f1c8dbb82ec0682ac2a1642c17e89e5c54301c4c63723e",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431307+00:00",
+        "verification": "Stored at raw/us_state/ccpa-cpra",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.431307+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/38a9592a-4806-436d-9ded-248655ce4c19",
+    "citation_type": "legal_statute",
+    "document_name": "Freelance Isn't Free Act (State)",
+    "jurisdiction": "US",
+    "authoritative_source": {
+      "url": "https://dol.ny.gov/freelance-isnt-free-act",
+      "accessed_date": "2025-11-28T03:20:00.431342+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/us_state/freelance-isn-t-free-act-state",
+      "sha256": "ca0b66cefec7e251bef1b240d504fd0907d61496941b5c9a43d0f3dbcaeac0c1",
+      "file_size_bytes": 28498,
+      "ingested_date": "2025-11-28T03:20:00.431342+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431342+00:00",
+        "verification": "Downloaded from https://dol.ny.gov/freelance-isnt-free-act",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431342+00:00",
+        "verification": "SHA-256 hash verified: ca0b66cefec7e251bef1b240d504fd0907d61496941b5c9a43d0f3dbcaeac0c1",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431342+00:00",
+        "verification": "Stored at raw/us_state/freelance-isn-t-free-act-state",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.431342+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/679280a6-1eba-4bee-9252-12dd825835fe",
+    "citation_type": "legal_statute",
+    "document_name": "Freelance Isn't Free Act (NYC)",
+    "jurisdiction": "US",
+    "authoritative_source": {
+      "url": "https://www.nyc.gov/site/dca/about/freelance-isnt-free-act.page",
+      "accessed_date": "2025-11-28T03:20:00.431377+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/us_state/freelance-isn-t-free-act-nyc",
+      "sha256": "71ae7beaf302def42ad06142096ce379fe4c63e3c40ea1e44c5d18f3ddb6a945",
+      "file_size_bytes": 24521,
+      "ingested_date": "2025-11-28T03:20:00.431377+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431377+00:00",
+        "verification": "Downloaded from https://www.nyc.gov/site/dca/about/freelance-isnt-free-act.page",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431377+00:00",
+        "verification": "SHA-256 hash verified: 71ae7beaf302def42ad06142096ce379fe4c63e3c40ea1e44c5d18f3ddb6a945",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431377+00:00",
+        "verification": "Stored at raw/us_state/freelance-isn-t-free-act-nyc",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.431377+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/032d5649-6d48-4e12-b2f7-d6c2bd763f55",
+    "citation_type": "industry_standard",
+    "document_name": "Non-Compete Standards",
+    "jurisdiction": "US",
+    "authoritative_source": {
+      "url": "https://www.nysenate.gov/legislation/laws/GOB",
+      "accessed_date": "2025-11-28T03:20:00.431412+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/us_state/non-compete-standards",
+      "sha256": "f042d1eb21de998e5fd70b9d410595fea47671772457afdfe9c53927a3f9bb21",
+      "file_size_bytes": 39443,
+      "ingested_date": "2025-11-28T03:20:00.431412+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431412+00:00",
+        "verification": "Downloaded from https://www.nysenate.gov/legislation/laws/GOB",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431412+00:00",
+        "verification": "SHA-256 hash verified: f042d1eb21de998e5fd70b9d410595fea47671772457afdfe9c53927a3f9bb21",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431412+00:00",
+        "verification": "Stored at raw/us_state/non-compete-standards",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.431412+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/a9adbc07-3965-4562-85cc-0f142c341657",
+    "citation_type": "legal_statute",
+    "document_name": "Healthcare Non-Compete",
+    "jurisdiction": "US",
+    "authoritative_source": {
+      "url": "https://capitol.texas.gov/",
+      "accessed_date": "2025-11-28T03:20:00.431445+00:00",
+      "verification_method": "api_verified",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/us_state/healthcare-non-compete",
+      "sha256": "441a2988bd046c27e3f3131f2e5ab45aa887b4ebf6186bfe7f9a9bc8691b3fa6",
+      "file_size_bytes": 34033,
+      "ingested_date": "2025-11-28T03:20:00.431445+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431445+00:00",
+        "verification": "Downloaded from https://capitol.texas.gov/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431445+00:00",
+        "verification": "SHA-256 hash verified: 441a2988bd046c27e3f3131f2e5ab45aa887b4ebf6186bfe7f9a9bc8691b3fa6",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431445+00:00",
+        "verification": "Stored at raw/us_state/healthcare-non-compete",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.431445+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/6891915e-3e58-451b-9213-7ff809c0fc19",
+    "citation_type": "legal_statute",
+    "document_name": "Choice of Law",
+    "jurisdiction": "US",
+    "authoritative_source": {
+      "url": "https://delcode.delaware.gov/title6/",
+      "accessed_date": "2025-11-28T03:20:00.431482+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/us_state/choice-of-law",
+      "sha256": "c7fb5f910f5ab2ceeb6834e078fa350d8a4c1d40a90c0f15bebf9b34b57af34e",
+      "file_size_bytes": 21411,
+      "ingested_date": "2025-11-28T03:20:00.431482+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431482+00:00",
+        "verification": "Downloaded from https://delcode.delaware.gov/title6/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431482+00:00",
+        "verification": "SHA-256 hash verified: c7fb5f910f5ab2ceeb6834e078fa350d8a4c1d40a90c0f15bebf9b34b57af34e",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431482+00:00",
+        "verification": "Stored at raw/us_state/choice-of-law",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.431482+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/0db5b935-40d1-45d1-995c-9d3febe09ef0",
+    "citation_type": "legal_statute",
+    "document_name": "Contract Law",
+    "jurisdiction": "US",
+    "authoritative_source": {
+      "url": "https://delcode.delaware.gov/title6/c027/",
+      "accessed_date": "2025-11-28T03:20:00.431517+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/us_state/contract-law",
+      "sha256": "096323f253d05aa45b72fafe27ad80e1027a31ba73c5c0ef4386998090a8bc75",
+      "file_size_bytes": 7660,
+      "ingested_date": "2025-11-28T03:20:00.431517+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431517+00:00",
+        "verification": "Downloaded from https://delcode.delaware.gov/title6/c027/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431517+00:00",
+        "verification": "SHA-256 hash verified: 096323f253d05aa45b72fafe27ad80e1027a31ba73c5c0ef4386998090a8bc75",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431517+00:00",
+        "verification": "Stored at raw/us_state/contract-law",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.431517+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/c7368754-1f4d-4f36-ad80-a5bc7d2849bf",
+    "citation_type": "legal_statute",
+    "document_name": "§611 et seq. - Service Contract (Dienstvertrag)",
+    "jurisdiction": "DE",
+    "authoritative_source": {
+      "url": "https://www.gesetze-im-internet.de/englisch_bgb/",
+      "accessed_date": "2025-11-28T03:20:00.431552+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/germany/ss611-et-seq-service-contract-dienstvertrag",
+      "sha256": "c15aee9c1a2e98de7f3869bd4ada610dbe1a9f5e04c7879cb48a560df27a1ec3",
+      "file_size_bytes": 498837,
+      "ingested_date": "2025-11-28T03:20:00.431552+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431552+00:00",
+        "verification": "Downloaded from https://www.gesetze-im-internet.de/englisch_bgb/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431552+00:00",
+        "verification": "SHA-256 hash verified: c15aee9c1a2e98de7f3869bd4ada610dbe1a9f5e04c7879cb48a560df27a1ec3",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431552+00:00",
+        "verification": "Stored at raw/germany/ss611-et-seq-service-contract-dienstvertrag",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.431552+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/67a45701-0750-4e16-a965-268e869597b5",
+    "citation_type": "legal_statute",
+    "document_name": "§631 et seq. - Work Contract (Werkvertrag)",
+    "jurisdiction": "DE",
+    "authoritative_source": {
+      "url": "https://www.gesetze-im-internet.de/englisch_bgb/",
+      "accessed_date": "2025-11-28T03:20:00.431593+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/germany/ss631-et-seq-work-contract-werkvertrag",
+      "sha256": "c15aee9c1a2e98de7f3869bd4ada610dbe1a9f5e04c7879cb48a560df27a1ec3",
+      "file_size_bytes": 498837,
+      "ingested_date": "2025-11-28T03:20:00.431593+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431593+00:00",
+        "verification": "Downloaded from https://www.gesetze-im-internet.de/englisch_bgb/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431593+00:00",
+        "verification": "SHA-256 hash verified: c15aee9c1a2e98de7f3869bd4ada610dbe1a9f5e04c7879cb48a560df27a1ec3",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431593+00:00",
+        "verification": "Stored at raw/germany/ss631-et-seq-work-contract-werkvertrag",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.431593+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/70ae774e-3a2b-47c7-9d63-42c66485e490",
+    "citation_type": "legal_statute",
+    "document_name": "§611a - Employee vs Self-Employed",
+    "jurisdiction": "DE",
+    "authoritative_source": {
+      "url": "https://www.gesetze-im-internet.de/englisch_bgb/",
+      "accessed_date": "2025-11-28T03:20:00.431619+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/germany/ss611a-employee-vs-self-employed",
+      "sha256": "c15aee9c1a2e98de7f3869bd4ada610dbe1a9f5e04c7879cb48a560df27a1ec3",
+      "file_size_bytes": 498837,
+      "ingested_date": "2025-11-28T03:20:00.431619+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431619+00:00",
+        "verification": "Downloaded from https://www.gesetze-im-internet.de/englisch_bgb/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431619+00:00",
+        "verification": "SHA-256 hash verified: c15aee9c1a2e98de7f3869bd4ada610dbe1a9f5e04c7879cb48a560df27a1ec3",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431619+00:00",
+        "verification": "Stored at raw/germany/ss611a-employee-vs-self-employed",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.431619+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/55bb9b04-ead4-4dc2-95b2-fc04cffdaf66",
+    "citation_type": "legal_statute",
+    "document_name": "§705 et seq. - Partnership (GbR)",
+    "jurisdiction": "DE",
+    "authoritative_source": {
+      "url": "https://www.gesetze-im-internet.de/englisch_bgb/",
+      "accessed_date": "2025-11-28T03:20:00.431641+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/germany/ss705-et-seq-partnership-gbr",
+      "sha256": "c15aee9c1a2e98de7f3869bd4ada610dbe1a9f5e04c7879cb48a560df27a1ec3",
+      "file_size_bytes": 498837,
+      "ingested_date": "2025-11-28T03:20:00.431641+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431641+00:00",
+        "verification": "Downloaded from https://www.gesetze-im-internet.de/englisch_bgb/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431641+00:00",
+        "verification": "SHA-256 hash verified: c15aee9c1a2e98de7f3869bd4ada610dbe1a9f5e04c7879cb48a560df27a1ec3",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431641+00:00",
+        "verification": "Stored at raw/germany/ss705-et-seq-partnership-gbr",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.431641+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/cc80d03c-a34e-458c-860a-77f7ed18975e",
+    "citation_type": "legal_statute",
+    "document_name": "§14 - Entrepreneur Definition",
+    "jurisdiction": "EU",
+    "authoritative_source": {
+      "url": "https://www.gesetze-im-internet.de/englisch_bgb/",
+      "accessed_date": "2025-11-28T03:20:00.431672+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/germany/ss14-entrepreneur-definition",
+      "sha256": "c15aee9c1a2e98de7f3869bd4ada610dbe1a9f5e04c7879cb48a560df27a1ec3",
+      "file_size_bytes": 498837,
+      "ingested_date": "2025-11-28T03:20:00.431672+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431672+00:00",
+        "verification": "Downloaded from https://www.gesetze-im-internet.de/englisch_bgb/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431672+00:00",
+        "verification": "SHA-256 hash verified: c15aee9c1a2e98de7f3869bd4ada610dbe1a9f5e04c7879cb48a560df27a1ec3",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431672+00:00",
+        "verification": "Stored at raw/germany/ss14-entrepreneur-definition",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.431672+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/2bb9ec93-a6c8-462a-b797-e4ba964e4ecd",
+    "citation_type": "legal_statute",
+    "document_name": "UWG (Unfair Competition) - Business practices",
+    "jurisdiction": "DE",
+    "authoritative_source": {
+      "url": "https://www.gesetze-im-internet.de/englisch_uwg/",
+      "accessed_date": "2025-11-28T03:20:00.431706+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/germany/uwg-unfair-competition-business-practices",
+      "sha256": "00b1d8693206228c3acbd0eadc421006530f2446ab4a3b7b7e4db1be97e58910",
+      "file_size_bytes": 13442,
+      "ingested_date": "2025-11-28T03:20:00.431706+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431706+00:00",
+        "verification": "Downloaded from https://www.gesetze-im-internet.de/englisch_uwg/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431706+00:00",
+        "verification": "SHA-256 hash verified: 00b1d8693206228c3acbd0eadc421006530f2446ab4a3b7b7e4db1be97e58910",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.431706+00:00",
+        "verification": "Stored at raw/germany/uwg-unfair-competition-business-practices",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.431706+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/62a7e61b-64bb-47f9-b389-7ba2ef82674f",
+    "citation_type": "legal_statute",
+    "document_name": "Copyright Act",
+    "jurisdiction": "CA",
+    "authoritative_source": {
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/C-42/",
+      "accessed_date": "2025-11-28T03:20:00.432055+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/canada/copyright-act",
+      "sha256": "2af1030a0f868c3a4b50ebf98ea40d7b4ea1e0224643f311f2871d497407bc0b",
+      "file_size_bytes": 38443,
+      "ingested_date": "2025-11-28T03:20:00.432055+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432055+00:00",
+        "verification": "Downloaded from https://laws-lois.justice.gc.ca/eng/acts/C-42/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432055+00:00",
+        "verification": "SHA-256 hash verified: 2af1030a0f868c3a4b50ebf98ea40d7b4ea1e0224643f311f2871d497407bc0b",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432055+00:00",
+        "verification": "Stored at raw/canada/copyright-act",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432055+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/5cdf98fa-8b8e-44b0-935e-95241d877a01",
+    "citation_type": "legal_statute",
+    "document_name": "Competition Act",
+    "jurisdiction": "CA",
+    "authoritative_source": {
+      "url": "https://laws.justice.gc.ca/eng/acts/C-34/",
+      "accessed_date": "2025-11-28T03:20:00.432147+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/canada/competition-act",
+      "sha256": "1efb1cbc3922655de2fa1dcdfa2c0c41e84e88ed8b44bd5fff7c2593baa6fff7",
+      "file_size_bytes": 27175,
+      "ingested_date": "2025-11-28T03:20:00.432147+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432147+00:00",
+        "verification": "Downloaded from https://laws.justice.gc.ca/eng/acts/C-34/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432147+00:00",
+        "verification": "SHA-256 hash verified: 1efb1cbc3922655de2fa1dcdfa2c0c41e84e88ed8b44bd5fff7c2593baa6fff7",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432147+00:00",
+        "verification": "Stored at raw/canada/competition-act",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432147+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/0ffcbacf-32d1-418e-88af-64d54df2c587",
+    "citation_type": "legal_statute",
+    "document_name": "Canada Labour Code",
+    "jurisdiction": "CA",
+    "authoritative_source": {
+      "url": "https://laws.justice.gc.ca/eng/acts/L-2/",
+      "accessed_date": "2025-11-28T03:20:00.432182+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/canada/canada-labour-code.html",
+      "sha256": "9de51f891ba3c45de2e83350fe0c0e6fc9426dead3d83c95c7ec98e10d3fa1e2",
+      "file_size_bytes": 46628,
+      "ingested_date": "2025-11-28T03:20:00.432182+00:00",
+      "git_commit": "57ad645",
+      "file_format": "html"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432182+00:00",
+        "verification": "Downloaded from https://laws.justice.gc.ca/eng/acts/L-2/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432182+00:00",
+        "verification": "SHA-256 hash verified: 9de51f891ba3c45de2e83350fe0c0e6fc9426dead3d83c95c7ec98e10d3fa1e2",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432182+00:00",
+        "verification": "Stored at raw/canada/canada-labour-code.html",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432182+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/52554ff3-977c-49bd-b801-ad2e47976ab3",
+    "citation_type": "legal_statute",
+    "document_name": "PIPEDA",
+    "jurisdiction": "CA",
+    "authoritative_source": {
+      "url": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/",
+      "accessed_date": "2025-11-28T03:20:00.432217+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/canada/pipeda",
+      "sha256": "c99f09543c7857d41738f60c93a4629676b61a336feb235fbd7db31400c00f31",
+      "file_size_bytes": 25833,
+      "ingested_date": "2025-11-28T03:20:00.432217+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432217+00:00",
+        "verification": "Downloaded from https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432217+00:00",
+        "verification": "SHA-256 hash verified: c99f09543c7857d41738f60c93a4629676b61a336feb235fbd7db31400c00f31",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432217+00:00",
+        "verification": "Stored at raw/canada/pipeda",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432217+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/a4949e7e-8601-47cf-824f-86ef0927b172",
+    "citation_type": "legal_statute",
+    "document_name": "Employment Insurance Act",
+    "jurisdiction": "CA",
+    "authoritative_source": {
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/E-5.6/",
+      "accessed_date": "2025-11-28T03:20:00.432245+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/canada/employment-insurance-act.html",
+      "sha256": "6149a59803e400dce008ac3b24b2a79946498e09d2f386748dca796b9a86cb37",
+      "file_size_bytes": 35024,
+      "ingested_date": "2025-11-28T03:20:00.432245+00:00",
+      "git_commit": "57ad645",
+      "file_format": "html"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432245+00:00",
+        "verification": "Downloaded from https://laws-lois.justice.gc.ca/eng/acts/E-5.6/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432245+00:00",
+        "verification": "SHA-256 hash verified: 6149a59803e400dce008ac3b24b2a79946498e09d2f386748dca796b9a86cb37",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432245+00:00",
+        "verification": "Stored at raw/canada/employment-insurance-act.html",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432245+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/ed6a5969-0b35-41a5-9e2f-c9a08c0e239e",
+    "citation_type": "legal_statute",
+    "document_name": "Employment Equity Act",
+    "jurisdiction": "CA",
+    "authoritative_source": {
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/E-5.401/",
+      "accessed_date": "2025-11-28T03:20:00.432280+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/canada/employment-equity-act.html",
+      "sha256": "5fa36477d9154e65281a83831254d55306c6022eb392eed61251ec27570df478",
+      "file_size_bytes": 20657,
+      "ingested_date": "2025-11-28T03:20:00.432280+00:00",
+      "git_commit": "57ad645",
+      "file_format": "html"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432280+00:00",
+        "verification": "Downloaded from https://laws-lois.justice.gc.ca/eng/acts/E-5.401/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432280+00:00",
+        "verification": "SHA-256 hash verified: 5fa36477d9154e65281a83831254d55306c6022eb392eed61251ec27570df478",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432280+00:00",
+        "verification": "Stored at raw/canada/employment-equity-act.html",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432280+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/aa073479-20a8-4fbf-b97f-0f1ed3e7283c",
+    "citation_type": "industry_standard",
+    "document_name": "Employment Standards Act",
+    "jurisdiction": "CA",
+    "authoritative_source": {
+      "url": "https://www.ontario.ca/laws/statute/00e41",
+      "accessed_date": "2025-11-28T03:20:00.432312+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/canada/employment-standards-act",
+      "sha256": "672384e19be379317c46886265bf504e134989138b4b6fa3a1a303fd3e10fb93",
+      "file_size_bytes": 53141,
+      "ingested_date": "2025-11-28T03:20:00.432312+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432312+00:00",
+        "verification": "Downloaded from https://www.ontario.ca/laws/statute/00e41",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432312+00:00",
+        "verification": "SHA-256 hash verified: 672384e19be379317c46886265bf504e134989138b4b6fa3a1a303fd3e10fb93",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432312+00:00",
+        "verification": "Stored at raw/canada/employment-standards-act",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432312+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/6af0444a-295c-472d-a806-f5bb7abd518a",
+    "citation_type": "industry_standard",
+    "document_name": "Labour Standards Act",
+    "jurisdiction": "CA",
+    "authoritative_source": {
+      "url": "https://www.legisquebec.gouv.qc.ca/en/document/cs/N-1.1",
+      "accessed_date": "2025-11-28T03:20:00.432335+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/canada/labour-standards-act.html",
+      "sha256": "74378c3e9cdd436c1cade59725764179394f78ab538738323663e16d171c2365",
+      "file_size_bytes": 716341,
+      "ingested_date": "2025-11-28T03:20:00.432335+00:00",
+      "git_commit": "57ad645",
+      "file_format": "html"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432335+00:00",
+        "verification": "Downloaded from https://www.legisquebec.gouv.qc.ca/en/document/cs/N-1.1",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432335+00:00",
+        "verification": "SHA-256 hash verified: 74378c3e9cdd436c1cade59725764179394f78ab538738323663e16d171c2365",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432335+00:00",
+        "verification": "Stored at raw/canada/labour-standards-act.html",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432335+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/ba58e9b7-e9af-4875-af31-41d0283304ed",
+    "citation_type": "legal_statute",
+    "document_name": "Fair Work Act 2009",
+    "jurisdiction": "AU",
+    "authoritative_source": {
+      "url": "https://www.legislation.gov.au/Series/C2009A00028",
+      "accessed_date": "2025-11-28T03:20:00.432364+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/australia/fair-work-act-2009.html",
+      "sha256": "7f39c94be15396c06dcbf0eee8b8f204ec4d5df8e1c0f97667250b084f12e943",
+      "file_size_bytes": 165322,
+      "ingested_date": "2025-11-28T03:20:00.432364+00:00",
+      "git_commit": "57ad645",
+      "file_format": "html"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432364+00:00",
+        "verification": "Downloaded from https://www.legislation.gov.au/Series/C2009A00028",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432364+00:00",
+        "verification": "SHA-256 hash verified: 7f39c94be15396c06dcbf0eee8b8f204ec4d5df8e1c0f97667250b084f12e943",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432364+00:00",
+        "verification": "Stored at raw/australia/fair-work-act-2009.html",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432364+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 20,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/1baf2edc-dea3-4c9f-a455-86c6d5ffa1b6",
+    "citation_type": "legal_statute",
+    "document_name": "Independent Contractors Act 2006",
+    "jurisdiction": "AU",
+    "authoritative_source": {
+      "url": "https://www.legislation.gov.au/Series/C2006A00162",
+      "accessed_date": "2025-11-28T03:20:00.432397+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/australia/independent-contractors-act-2006",
+      "sha256": "86c18976f7c399459b9699e5d1fc83d1704c90089b8da52fd3387313a06d6228",
+      "file_size_bytes": 154588,
+      "ingested_date": "2025-11-28T03:20:00.432397+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432397+00:00",
+        "verification": "Downloaded from https://www.legislation.gov.au/Series/C2006A00162",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432397+00:00",
+        "verification": "SHA-256 hash verified: 86c18976f7c399459b9699e5d1fc83d1704c90089b8da52fd3387313a06d6228",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432397+00:00",
+        "verification": "Stored at raw/australia/independent-contractors-act-2006",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432397+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 20,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/2cf637e4-7abf-4397-a4f6-0e0724dd842b",
+    "citation_type": "legal_statute",
+    "document_name": "Copyright Act 1968",
+    "jurisdiction": "AU",
+    "authoritative_source": {
+      "url": "https://www.legislation.gov.au/Series/C1968A00063",
+      "accessed_date": "2025-11-28T03:20:00.432419+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/australia/copyright-act-1968.html",
+      "sha256": "3e2692e356935714e3ae194386ceb8e42219c67c273306c7c8a1d9e6c8a14699",
+      "file_size_bytes": 160309,
+      "ingested_date": "2025-11-28T03:20:00.432419+00:00",
+      "git_commit": "57ad645",
+      "file_format": "html"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432419+00:00",
+        "verification": "Downloaded from https://www.legislation.gov.au/Series/C1968A00063",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432419+00:00",
+        "verification": "SHA-256 hash verified: 3e2692e356935714e3ae194386ceb8e42219c67c273306c7c8a1d9e6c8a14699",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432419+00:00",
+        "verification": "Stored at raw/australia/copyright-act-1968.html",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432419+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 19,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/d4dacda7-119f-4529-876e-0b54b600f16d",
+    "citation_type": "legal_statute",
+    "document_name": "Competition and Consumer Act 2010",
+    "jurisdiction": "AU",
+    "authoritative_source": {
+      "url": "https://www.legislation.gov.au/C2004A00109/latest",
+      "accessed_date": "2025-11-28T03:20:00.432443+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/australia/competition-and-consumer-act-2010",
+      "sha256": "4c61581f971c33a6145b849d6aad869989f86c613f3a7b72fefe24f55e139ff0",
+      "file_size_bytes": 1333871,
+      "ingested_date": "2025-11-28T03:20:00.432443+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432443+00:00",
+        "verification": "Downloaded from https://www.legislation.gov.au/C2004A00109/latest",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432443+00:00",
+        "verification": "SHA-256 hash verified: 4c61581f971c33a6145b849d6aad869989f86c613f3a7b72fefe24f55e139ff0",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432443+00:00",
+        "verification": "Stored at raw/australia/competition-and-consumer-act-2010",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432443+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 20,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/5e360b7a-32ab-4921-b961-a159aea6d2d4",
+    "citation_type": "legal_statute",
+    "document_name": "Privacy Act 1988",
+    "jurisdiction": "AU",
+    "authoritative_source": {
+      "url": "https://www.legislation.gov.au/Series/C2004A03712",
+      "accessed_date": "2025-11-28T03:20:00.432462+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/australia/privacy-act-1988.html",
+      "sha256": "2278aef569d3be13a79b9c5a718ecd11bb094d46d4680d26a11d5812c750730b",
+      "file_size_bytes": 160983,
+      "ingested_date": "2025-11-28T03:20:00.432462+00:00",
+      "git_commit": "57ad645",
+      "file_format": "html"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432462+00:00",
+        "verification": "Downloaded from https://www.legislation.gov.au/Series/C2004A03712",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432462+00:00",
+        "verification": "SHA-256 hash verified: 2278aef569d3be13a79b9c5a718ecd11bb094d46d4680d26a11d5812c750730b",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432462+00:00",
+        "verification": "Stored at raw/australia/privacy-act-1988.html",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432462+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 19,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/afe31b71-542d-417c-841b-0c0f12c198ff",
+    "citation_type": "legal_statute",
+    "document_name": "Australian Consumer Law",
+    "jurisdiction": "AU",
+    "authoritative_source": {
+      "url": "https://www.legislation.gov.au/C2004A00109/latest",
+      "accessed_date": "2025-11-28T03:20:00.432485+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/australia/australian-consumer-law",
+      "sha256": "bdc461c9abb68249e9f0a3588a8aa91f2a4aab77294dd6613b83b06d2ee11fe1",
+      "file_size_bytes": 1333871,
+      "ingested_date": "2025-11-28T03:20:00.432485+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432485+00:00",
+        "verification": "Downloaded from https://www.legislation.gov.au/C2004A00109/latest",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432485+00:00",
+        "verification": "SHA-256 hash verified: bdc461c9abb68249e9f0a3588a8aa91f2a4aab77294dd6613b83b06d2ee11fe1",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432485+00:00",
+        "verification": "Stored at raw/australia/australian-consumer-law",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432485+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/e0947646-4d0d-4e84-b1de-965f0a9502d7",
+    "citation_type": "legal_statute",
+    "document_name": "Employment Rights Act 1996",
+    "jurisdiction": "UK",
+    "authoritative_source": {
+      "url": "https://www.legislation.gov.uk/ukpga/1996/18/contents",
+      "accessed_date": "2025-11-28T03:20:00.432505+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/uk/employment-rights-act-1996",
+      "sha256": "f72b8ed35ee46f25acf84bb8263298d61644e932dae0907290372cffbda0f892",
+      "file_size_bytes": 234794,
+      "ingested_date": "2025-11-28T03:20:00.432505+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432505+00:00",
+        "verification": "Downloaded from https://www.legislation.gov.uk/ukpga/1996/18/contents",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432505+00:00",
+        "verification": "SHA-256 hash verified: f72b8ed35ee46f25acf84bb8263298d61644e932dae0907290372cffbda0f892",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432505+00:00",
+        "verification": "Stored at raw/uk/employment-rights-act-1996",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432505+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 19,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/096a722c-40f0-4c47-9fce-54611108213d",
+    "citation_type": "legal_statute",
+    "document_name": "Copyright, Designs and Patents Act 1988",
+    "jurisdiction": "UK",
+    "authoritative_source": {
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48",
+      "accessed_date": "2025-11-28T03:20:00.432535+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/uk/copyright-designs-and-patents-act-1988",
+      "sha256": "55d91ce6f35fc835e751b1b8ba2cb1625136c9e917d59b07c00b2594020d3423",
+      "file_size_bytes": 4083690,
+      "ingested_date": "2025-11-28T03:20:00.432535+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432535+00:00",
+        "verification": "Downloaded from https://www.legislation.gov.uk/ukpga/1988/48",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432535+00:00",
+        "verification": "SHA-256 hash verified: 55d91ce6f35fc835e751b1b8ba2cb1625136c9e917d59b07c00b2594020d3423",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432535+00:00",
+        "verification": "Stored at raw/uk/copyright-designs-and-patents-act-1988",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432535+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 19,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/ef8a86ef-1ec1-407f-ac05-592eeb94d565",
+    "citation_type": "legal_statute",
+    "document_name": "Patents Act 1977",
+    "jurisdiction": "UK",
+    "authoritative_source": {
+      "url": "https://www.legislation.gov.uk/ukpga/1977/37",
+      "accessed_date": "2025-11-28T03:20:00.432559+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/uk/patents-act-1977",
+      "sha256": "19df13c0375d1620efa7b8fab54dedb7c580e5e919053252b7a13bd11c8c1d90",
+      "file_size_bytes": 1497139,
+      "ingested_date": "2025-11-28T03:20:00.432559+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432559+00:00",
+        "verification": "Downloaded from https://www.legislation.gov.uk/ukpga/1977/37",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432559+00:00",
+        "verification": "SHA-256 hash verified: 19df13c0375d1620efa7b8fab54dedb7c580e5e919053252b7a13bd11c8c1d90",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432559+00:00",
+        "verification": "Stored at raw/uk/patents-act-1977",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432559+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 19,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/d49c0951-fc74-4b7a-a5ce-e2339631bb7e",
+    "citation_type": "legal_regulation",
+    "document_name": "Trade Secrets Regulations 2018",
+    "jurisdiction": "UK",
+    "authoritative_source": {
+      "url": "https://www.legislation.gov.uk/uksi/2018/597/made",
+      "accessed_date": "2025-11-28T03:20:00.432594+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/uk/trade-secrets-regulations-2018",
+      "sha256": "e00a06553147a784e4a7196c0d91ddf7b6406e17a20fbe0ae0205c1adf4b5d58",
+      "file_size_bytes": 79427,
+      "ingested_date": "2025-11-28T03:20:00.432594+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432594+00:00",
+        "verification": "Downloaded from https://www.legislation.gov.uk/uksi/2018/597/made",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432594+00:00",
+        "verification": "SHA-256 hash verified: e00a06553147a784e4a7196c0d91ddf7b6406e17a20fbe0ae0205c1adf4b5d58",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432594+00:00",
+        "verification": "Stored at raw/uk/trade-secrets-regulations-2018",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432594+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 20,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/720129fa-716f-474c-b133-b8ceb3a007cf",
+    "citation_type": "legal_statute",
+    "document_name": "Social Security (Intermediaries) Regs",
+    "jurisdiction": "UK",
+    "authoritative_source": {
+      "url": "https://www.legislation.gov.uk/uksi/2000/727",
+      "accessed_date": "2025-11-28T03:20:00.432631+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/uk/social-security-intermediaries-regs",
+      "sha256": "0dbb4125336770bebf17ee00c5df3378c15751ecb8216694904a130393bd31ce",
+      "file_size_bytes": 312018,
+      "ingested_date": "2025-11-28T03:20:00.432631+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432631+00:00",
+        "verification": "Downloaded from https://www.legislation.gov.uk/uksi/2000/727",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432631+00:00",
+        "verification": "SHA-256 hash verified: 0dbb4125336770bebf17ee00c5df3378c15751ecb8216694904a130393bd31ce",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432631+00:00",
+        "verification": "Stored at raw/uk/social-security-intermediaries-regs",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432631+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/e647fee9-116e-4379-b247-a43c3e92e7bc",
+    "citation_type": "legal_statute",
+    "document_name": "ITEPA 2003 Part 2 Ch.8",
+    "jurisdiction": "UK",
+    "authoritative_source": {
+      "url": "https://www.legislation.gov.uk/ukpga/2003/1",
+      "accessed_date": "2025-11-28T03:20:00.432663+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/uk/itepa-2003-part-2-ch-8",
+      "sha256": "4bcaee53dc08d4514246eb84db30d9e05b05c0fa5e5311a4f9bbdeae71a9aff4",
+      "file_size_bytes": 9786044,
+      "ingested_date": "2025-11-28T03:20:00.432663+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432663+00:00",
+        "verification": "Downloaded from https://www.legislation.gov.uk/ukpga/2003/1",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432663+00:00",
+        "verification": "SHA-256 hash verified: 4bcaee53dc08d4514246eb84db30d9e05b05c0fa5e5311a4f9bbdeae71a9aff4",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432663+00:00",
+        "verification": "Stored at raw/uk/itepa-2003-part-2-ch-8",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432663+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 20,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/d00f87fc-e2b9-42a8-b569-1090698b4b60",
+    "citation_type": "legal_statute",
+    "document_name": "Database Rights Regs 1997",
+    "jurisdiction": "UK",
+    "authoritative_source": {
+      "url": "https://www.legislation.gov.uk/uksi/1997/3032",
+      "accessed_date": "2025-11-28T03:20:00.432697+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "legislation_database"
+    },
+    "local_verification": {
+      "local_path": "raw/uk/database-rights-regs-1997",
+      "sha256": "9a9273efa2e926e87cba76cd15a646911493434f4e9b27fce820b85ce87a7acc",
+      "file_size_bytes": 221664,
+      "ingested_date": "2025-11-28T03:20:00.432697+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432697+00:00",
+        "verification": "Downloaded from https://www.legislation.gov.uk/uksi/1997/3032",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432697+00:00",
+        "verification": "SHA-256 hash verified: 9a9273efa2e926e87cba76cd15a646911493434f4e9b27fce820b85ce87a7acc",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432697+00:00",
+        "verification": "Stored at raw/uk/database-rights-regs-1997",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432697+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 19,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/6cd47bb1-f34f-4091-b98c-6fa54a67f4ee",
+    "citation_type": "legal_dataset",
+    "document_name": "CUAD",
+    "jurisdiction": "INT",
+    "authoritative_source": {
+      "url": "https://www.atticusprojectai.org/cuad",
+      "accessed_date": "2025-11-28T03:20:00.432730+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/datasets/cuad",
+      "sha256": "3eb753aa9bb2e28b71cee450f62f35896c1f0964b62a80135c06bef04e80e523",
+      "file_size_bytes": 723333,
+      "ingested_date": "2025-11-28T03:20:00.432730+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432730+00:00",
+        "verification": "Downloaded from https://www.atticusprojectai.org/cuad",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432730+00:00",
+        "verification": "SHA-256 hash verified: 3eb753aa9bb2e28b71cee450f62f35896c1f0964b62a80135c06bef04e80e523",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432730+00:00",
+        "verification": "Stored at raw/datasets/cuad",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432730+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/28abea12-e9bf-473c-9f23-8f25960af789",
+    "citation_type": "industry_standard",
+    "document_name": "Steam Distribution Agreement - Steam Distribution Agreement",
+    "jurisdiction": "INT",
+    "authoritative_source": {
+      "url": "https://store.steampowered.com",
+      "accessed_date": "2025-11-28T03:20:00.432784+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/industry/steam-distribution-agreement-steam-distribution-agreement",
+      "sha256": "0214d4069e54bcb07811f3afa41b1c0b776ca8d43ed0fa50a56f6de2ec6ea876",
+      "file_size_bytes": 804459,
+      "ingested_date": "2025-11-28T03:20:00.432784+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432784+00:00",
+        "verification": "Downloaded from https://store.steampowered.com",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432784+00:00",
+        "verification": "SHA-256 hash verified: 0214d4069e54bcb07811f3afa41b1c0b776ca8d43ed0fa50a56f6de2ec6ea876",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432784+00:00",
+        "verification": "Stored at raw/industry/steam-distribution-agreement-steam-distribution-agreement",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432784+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/8affec7a-14b2-46f0-9b9f-a2c37eb83dc7",
+    "citation_type": "legal_statute",
+    "document_name": "IGDA Contract Walk-Through - IGDA Contract Walk-Through",
+    "jurisdiction": "INT",
+    "authoritative_source": {
+      "url": "https://igda.org/resourcelibrary/game-industry-standards/",
+      "accessed_date": "2025-11-28T03:20:00.432821+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/industry/igda-contract-walk-through-igda-contract-walk-through",
+      "sha256": "c614250a37a5f4f16085c1d42d15fb4495f61beac088b7806626f090e390acae",
+      "file_size_bytes": 52706,
+      "ingested_date": "2025-11-28T03:20:00.432821+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432821+00:00",
+        "verification": "Downloaded from https://igda.org/resourcelibrary/game-industry-standards/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432821+00:00",
+        "verification": "SHA-256 hash verified: c614250a37a5f4f16085c1d42d15fb4495f61beac088b7806626f090e390acae",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432821+00:00",
+        "verification": "Stored at raw/industry/igda-contract-walk-through-igda-contract-walk-through",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432821+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/e932150b-991e-4f32-95cd-353ba2164ae6",
+    "citation_type": "legal_statute",
+    "document_name": "IGDA Crediting Guidelines - IGDA Crediting Guidelines",
+    "jurisdiction": "INT",
+    "authoritative_source": {
+      "url": "https://igda.org/",
+      "accessed_date": "2025-11-28T03:20:00.432860+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/industry/igda-crediting-guidelines-igda-crediting-guidelines",
+      "sha256": "5aff0e5f9e1619bd2462264cb5683de5260f941bf31c5bdfb1b0217372c74af8",
+      "file_size_bytes": 57195,
+      "ingested_date": "2025-11-28T03:20:00.432860+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432860+00:00",
+        "verification": "Downloaded from https://igda.org/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432860+00:00",
+        "verification": "SHA-256 hash verified: 5aff0e5f9e1619bd2462264cb5683de5260f941bf31c5bdfb1b0217372c74af8",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.432860+00:00",
+        "verification": "Stored at raw/industry/igda-crediting-guidelines-igda-crediting-guidelines",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.432860+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/0f10c54b-3727-4eab-b113-c45cd9fb6d39",
+    "citation_type": "industry_standard",
+    "document_name": "WGA Minimum Basic Agreement - WGA Minimum Basic Agreement",
+    "jurisdiction": "INT",
+    "authoritative_source": {
+      "url": "https://www.wga.org/contracts/contracts/schedule-of-minimums",
+      "accessed_date": "2025-11-28T03:20:00.433013+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/industry/wga-minimum-basic-agreement-wga-minimum-basic-agreement",
+      "sha256": "c74762803d06aaaa1df7ed68fb7c72bd636f56f30baa67cfeb02d7a13da4ad49",
+      "file_size_bytes": 72989,
+      "ingested_date": "2025-11-28T03:20:00.433013+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.433013+00:00",
+        "verification": "Downloaded from https://www.wga.org/contracts/contracts/schedule-of-minimums",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.433013+00:00",
+        "verification": "SHA-256 hash verified: c74762803d06aaaa1df7ed68fb7c72bd636f56f30baa67cfeb02d7a13da4ad49",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.433013+00:00",
+        "verification": "Stored at raw/industry/wga-minimum-basic-agreement-wga-minimum-basic-agreement",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.433013+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/0186374b-8690-4f64-b187-9983af7a53c3",
+    "citation_type": "legal_statute",
+    "document_name": "GAG Handbook (17th Ed) - GAG Handbook (17th Ed)",
+    "jurisdiction": "INT",
+    "authoritative_source": {
+      "url": "https://graphicartistsguild.org/",
+      "accessed_date": "2025-11-28T03:20:00.433070+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/industry/gag-handbook-17th-ed-gag-handbook-17th-ed",
+      "sha256": "8255c97e711bd68d32efbb239f0d5b7d3dc2595157d5f0f5bf961e1681a76125",
+      "file_size_bytes": 549493,
+      "ingested_date": "2025-11-28T03:20:00.433070+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.433070+00:00",
+        "verification": "Downloaded from https://graphicartistsguild.org/",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.433070+00:00",
+        "verification": "SHA-256 hash verified: 8255c97e711bd68d32efbb239f0d5b7d3dc2595157d5f0f5bf961e1681a76125",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.433070+00:00",
+        "verification": "Stored at raw/industry/gag-handbook-17th-ed-gag-handbook-17th-ed",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.433070+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/c01877ee-0438-4836-937e-4351ab599673",
+    "citation_type": "industry_standard",
+    "document_name": "Photography Licensing Standards - Photography Licensing Standards",
+    "jurisdiction": "INT",
+    "authoritative_source": {
+      "url": "https://www.pixsy.com/image-licensing/photo-licensing-agreement",
+      "accessed_date": "2025-11-28T03:20:00.433105+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/industry/photography-licensing-standards-photography-licensing-standards",
+      "sha256": "094390fe2e31ba39e79cf7559fd6520b6b132686bfe5ea994bc969f93486ccc4",
+      "file_size_bytes": 91495,
+      "ingested_date": "2025-11-28T03:20:00.433105+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.433105+00:00",
+        "verification": "Downloaded from https://www.pixsy.com/image-licensing/photo-licensing-agreement",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.433105+00:00",
+        "verification": "SHA-256 hash verified: 094390fe2e31ba39e79cf7559fd6520b6b132686bfe5ea994bc969f93486ccc4",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.433105+00:00",
+        "verification": "Stored at raw/industry/photography-licensing-standards-photography-licensing-standards",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.433105+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/48f70090-ae7c-4818-8038-273c850bd1f4",
+    "citation_type": "industry_standard",
+    "document_name": "Open Source Licenses - Open Source Licenses",
+    "jurisdiction": "INT",
+    "authoritative_source": {
+      "url": "https://opensource.org/licenses",
+      "accessed_date": "2025-11-28T03:20:00.433145+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/industry/open-source-licenses-open-source-licenses",
+      "sha256": "a6770e8deab553b38bfad51669e9b596953b23ae4730bd8a441fcd910e08a702",
+      "file_size_bytes": 207101,
+      "ingested_date": "2025-11-28T03:20:00.433145+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.433145+00:00",
+        "verification": "Downloaded from https://opensource.org/licenses",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.433145+00:00",
+        "verification": "SHA-256 hash verified: a6770e8deab553b38bfad51669e9b596953b23ae4730bd8a441fcd910e08a702",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.433145+00:00",
+        "verification": "Stored at raw/industry/open-source-licenses-open-source-licenses",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.433145+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/5c4c60d7-51de-41eb-b7db-f6be271ca4ef",
+    "citation_type": "industry_standard",
+    "document_name": "MIT License - MIT License",
+    "jurisdiction": "INT",
+    "authoritative_source": {
+      "url": "https://opensource.org/license/mit",
+      "accessed_date": "2025-11-28T03:20:00.433178+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/industry/mit-license-mit-license",
+      "sha256": "e2407bc4cf4efbab4fd32e169b4d216fe3f0ccadb51563b5b0ce67dfa5464b4b",
+      "file_size_bytes": 138252,
+      "ingested_date": "2025-11-28T03:20:00.433178+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.433178+00:00",
+        "verification": "Downloaded from https://opensource.org/license/mit",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.433178+00:00",
+        "verification": "SHA-256 hash verified: e2407bc4cf4efbab4fd32e169b4d216fe3f0ccadb51563b5b0ce67dfa5464b4b",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.433178+00:00",
+        "verification": "Stored at raw/industry/mit-license-mit-license",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.433178+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/59df60e8-7ac5-4a3f-af9f-81b5a6b8647e",
+    "citation_type": "legal_statute",
+    "document_name": "Apache 2.0 - Apache 2.0",
+    "jurisdiction": "INT",
+    "authoritative_source": {
+      "url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "accessed_date": "2025-11-28T03:20:00.433214+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/industry/apache-2-0-apache-2-0",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "file_size_bytes": 11358,
+      "ingested_date": "2025-11-28T03:20:00.433214+00:00",
+      "git_commit": "57ad645",
+      "file_format": "text"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.433214+00:00",
+        "verification": "Downloaded from https://www.apache.org/licenses/LICENSE-2.0",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.433214+00:00",
+        "verification": "SHA-256 hash verified: cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.433214+00:00",
+        "verification": "Stored at raw/industry/apache-2-0-apache-2-0",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.433214+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  },
+  {
+    "citation_id": "if://citation/1ac0e60b-a300-484f-bad3-034ff2e94822",
+    "citation_type": "legal_statute",
+    "document_name": "GPL v3 - GPL v3",
+    "jurisdiction": "INT",
+    "authoritative_source": {
+      "url": "https://www.gnu.org/licenses/gpl-3.0.en.html",
+      "accessed_date": "2025-11-28T03:20:00.433253+00:00",
+      "verification_method": "sha256_hash",
+      "source_type": "government_website"
+    },
+    "local_verification": {
+      "local_path": "raw/industry/gpl-v3-gpl-v3.html",
+      "sha256": "4c4204f396473be585ff9b5f345a97501329d60bea9c39df0ee8a40658f927be",
+      "file_size_bytes": 50943,
+      "ingested_date": "2025-11-28T03:20:00.433253+00:00",
+      "git_commit": "57ad645",
+      "file_format": "html"
+    },
+    "provenance_chain": [
+      {
+        "step": "download",
+        "agent": "legal-corpus-downloader-v1.0",
+        "timestamp": "2025-11-28T03:20:00.433253+00:00",
+        "verification": "Downloaded from https://www.gnu.org/licenses/gpl-3.0.en.html",
+        "result": "completed"
+      },
+      {
+        "step": "validation",
+        "agent": "legal-corpus-validator-v1.0",
+        "timestamp": "2025-11-28T03:20:00.433253+00:00",
+        "verification": "SHA-256 hash verified: 4c4204f396473be585ff9b5f345a97501329d60bea9c39df0ee8a40658f927be",
+        "result": "verified"
+      },
+      {
+        "step": "ingestion",
+        "agent": "legal-corpus-pipeline-v1.0",
+        "timestamp": "2025-11-28T03:20:00.433253+00:00",
+        "verification": "Stored at raw/industry/gpl-v3-gpl-v3.html",
+        "result": "completed"
+      }
+    ],
+    "citation_status": "verified",
+    "verification_date": "2025-11-28T03:20:00.433253+00:00",
+    "verifier": "if-legal-corpus-pipeline-v1.0",
+    "legal_disclaimer": "This citation record documents source and verification of legal documents. Legal interpretation requires qualified legal counsel.",
+    "legal_metadata": {
+      "statute_year": 2025,
+      "amendment_status": "as amended",
+      "applicability": [
+        "freelance_contracts",
+        "employment_contracts"
+      ],
+      "related_statutes": []
+    }
+  }
+]

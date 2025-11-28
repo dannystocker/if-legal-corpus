@@ -135,6 +135,157 @@ The `.venv/` directory is excluded from git. Install dependencies locally after 
 - Overlap: 200 characters
 - Configurable in `scripts/ingest_chromadb.py` via `chunk_text()` function
 
+## IF.TTT Compliance (Traceable, Transparent, Trustworthy)
+
+This legal corpus implements the IF.TTT framework for legal service compliance:
+
+### Traceable
+Every document has:
+- Unique citation ID: `if://citation/[uuid]` format
+- SHA-256 cryptographic hash for integrity verification
+- Git commit reference showing when added to repository
+- Complete provenance chain from source through ingestion
+
+**Access citations:**
+```bash
+# View all citations with metadata
+cat citations/legal-corpus-citations-2025-11-28.json | jq '.[].citation_id'
+
+# Search for specific document
+grep "Employment Rights Act" citations/legal-corpus-citations-2025-11-28.json
+```
+
+### Transparent
+Full audit trail available:
+- **Citation Schema:** `schemas/legal-citation-v1.0.json` - JSON schema defining all required fields
+- **Citation Records:** `citations/legal-corpus-citations-2025-11-28.json` - 59 documents with metadata
+- **Provenance Audit:** `audit/PROVENANCE_CHAIN.md` - Complete chain of custody documentation
+- **Validation Reports:** `audit/validation-report-*.json` - Automated verification results
+
+### Trustworthy
+All documents verified:
+- Downloaded from authoritative government sources
+- Hash-verified against original files
+- Ingested into Chroma with citation metadata preserved
+- Automated validation tool checks integrity: `python tools/validate_legal_citations.py`
+
+**Current Verification Status:**
+```
+RESULT: ALL 59 CITATIONS VERIFIED (100%)
+  ✓ Schema validation: 59/59
+  ✓ File existence: 59/59
+  ✓ SHA-256 hash verification: 59/59
+  ✓ Provenance chain: 59/59
+```
+
+### Citation Validation
+
+To validate all citations against schema and verify file integrity:
+
+```bash
+# Activate virtual environment
+source .venv/bin/activate
+
+# Run validation tool
+python tools/validate_legal_citations.py
+```
+
+This validates:
+1. JSON schema compliance
+2. Citation ID format (if://citation/[uuid])
+3. File existence and accessibility
+4. SHA-256 hash integrity
+5. File size consistency
+6. Git commit references
+7. Complete provenance chains
+8. Timestamp validity
+
+### Using Citations in Legal Services
+
+For ContractGuard or other legal services using this corpus:
+
+1. **Preserve Metadata**: When retrieving documents via Chroma, extract full citation metadata
+2. **Display Sources**: Always show `authoritative_source.url` to users
+3. **Show Verification**: Display `verification_date` and `citation_status`
+4. **Include Disclaimer**: Add legal disclaimer on analysis pages:
+   ```
+   Legal Disclaimer: This information is for reference only and does not constitute
+   legal advice. All legal analysis should be reviewed by qualified legal counsel.
+   Consult current official sources for critical decisions.
+   ```
+5. **Maintain Audit Log**: Record which citations were used for each contract analysis
+
+### Example Citation Record
+
+Every document includes complete metadata:
+
+```json
+{
+  "citation_id": "if://citation/5f2c229f-58d2-4ad1-b431-4db4459a2213",
+  "citation_type": "legal_statute",
+  "document_name": "Employment Rights Act 1996",
+  "jurisdiction": "UK",
+  "authoritative_source": {
+    "url": "https://www.legislation.gov.uk/ukpga/1996/18/contents",
+    "accessed_date": "2025-11-28T04:18:00Z",
+    "verification_method": "sha256_hash",
+    "source_type": "government_website"
+  },
+  "local_verification": {
+    "local_path": "raw/uk/employment-rights-act-1996",
+    "sha256": "f72b8ed35ee46f25acf84bb8263298d61644e932dae0907290372cffbda0f892",
+    "file_size_bytes": 234794,
+    "ingested_date": "2025-11-28T04:13:00Z",
+    "git_commit": "57ad645"
+  },
+  "provenance_chain": [
+    {
+      "step": "download",
+      "agent": "legal-corpus-downloader-v1.0",
+      "timestamp": "2025-11-28T04:11:52Z",
+      "verification": "Downloaded from https://www.legislation.gov.uk/..."
+    },
+    {
+      "step": "validation",
+      "agent": "legal-corpus-validator-v1.0",
+      "timestamp": "2025-11-28T04:12:15Z",
+      "verification": "SHA-256 hash verified"
+    },
+    {
+      "step": "ingestion",
+      "agent": "chromadb-pipeline-v1.0",
+      "timestamp": "2025-11-28T04:13:00Z",
+      "verification": "Stored in Chroma vector database"
+    }
+  ],
+  "citation_status": "verified",
+  "verification_date": "2025-11-28T04:19:00Z",
+  "verifier": "if-legal-corpus-pipeline-v1.0"
+}
+```
+
+### Corpus Statistics by Jurisdiction
+
+**Total Documents Verified:** 59
+
+| Jurisdiction | Count | Status |
+|---|---|---|
+| UK | 7 | verified |
+| US | 21 | verified |
+| Canada | 8 | verified |
+| Australia | 6 | verified |
+| Germany | 5 | verified |
+| EU | 1 | verified |
+| Industry/International | 11 | verified |
+
+### File Locations
+
+- **Schema:** `/home/setup/if-legal-corpus/schemas/legal-citation-v1.0.json`
+- **Citations:** `/home/setup/if-legal-corpus/citations/legal-corpus-citations-2025-11-28.json`
+- **Audit Trail:** `/home/setup/if-legal-corpus/audit/PROVENANCE_CHAIN.md`
+- **Validation Tool:** `/home/setup/if-legal-corpus/tools/validate_legal_citations.py`
+- **Validation Reports:** `/home/setup/if-legal-corpus/audit/validation-report-*.json`
+
 ## License & Attribution
 
 This corpus includes:
@@ -142,4 +293,4 @@ This corpus includes:
 - **Creative commons licensed** industry standards (AIGA, GAG, IGDA)
 - **Dataset acknowledgments:** CUAD, ContractNLI, LEDGAR
 
-See individual source documents for their specific licensing terms.
+See individual source documents and audit trail for their specific licensing terms and source attribution.

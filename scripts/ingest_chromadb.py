@@ -1,4 +1,4 @@
-"""ChromaDB ingestion for the legal corpus."""
+"""ChromaDB ingestion for the legal corpus with IF.TTT citation metadata."""
 from __future__ import annotations
 
 import argparse
@@ -6,7 +6,7 @@ import csv
 import json
 import os
 from pathlib import Path
-from typing import List
+from typing import List, Dict, Optional
 
 import chromadb
 from bs4 import BeautifulSoup
@@ -18,6 +18,21 @@ def read_manifest(manifest_path: str) -> List[dict]:
     with open(manifest_path, newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         return list(reader)
+
+
+def load_citations(citations_path: str) -> Dict[str, dict]:
+    """Load citations file and create lookup by local_path."""
+    citations_map = {}
+    try:
+        with open(citations_path, 'r', encoding='utf-8') as f:
+            citations_list = json.load(f)
+            for citation in citations_list:
+                local_path = citation['local_verification']['local_path']
+                citations_map[local_path] = citation
+    except (FileNotFoundError, json.JSONDecodeError):
+        # Citations file not available, continue without it
+        pass
+    return citations_map
 
 
 def extract_text(path: Path) -> str:
@@ -46,35 +61,76 @@ def chunk_text(text: str, chunk_size: int = 1500, overlap: int = 200) -> List[st
     return chunks
 
 
-def ingest(manifest_path: str, db_dir: str) -> None:
+def ingest(manifest_path: str, db_dir: str, citations_path: Optional[str] = None) -> None:
+    """Ingest corpus into ChromaDB with optional IF.TTT citation metadata."""
     records = read_manifest(manifest_path)
+
+    # Load citations if available
+    citations_map = {}
+    if citations_path:
+        citations_map = load_citations(citations_path)
+    else:
+        # Try default location
+        default_citations = Path(manifest_path).parent.parent / 'citations' / 'legal-corpus-citations-2025-11-28.json'
+        if default_citations.exists():
+            citations_map = load_citations(str(default_citations))
+
     os.makedirs(db_dir, exist_ok=True)
     client = chromadb.PersistentClient(
         path=db_dir,
         settings=Settings(anonymized_telemetry=False),
     )
     collection = client.get_or_create_collection("if_legal_corpus")
+
+    ingested_count = 0
     for record in records:
         if record.get("status") != "success":
             continue
         local_path = record.get("local_path")
         if not local_path or not os.path.exists(local_path):
             continue
+
         text = extract_text(Path(local_path))
+
+        # Look up citation metadata if available
+        citation = citations_map.get(local_path)
+
         for idx, chunk in enumerate(chunk_text(text)):
             doc_id = f"{record.get('document_name')}-{record.get('sha256')}-{idx}"
+
+            # Base metadata from manifest
             metadata = {
-                "inventory_path": record.get("inventory_path"),
-                "document_name": record.get("document_name"),
+                "inventory_path": record.get("inventory_path", ""),
+                "document_name": record.get("document_name", ""),
                 "local_path": local_path,
-                "sha256": record.get("sha256"),
+                "sha256": record.get("sha256", ""),
             }
+
+            # Add IF.TTT citation metadata if available
+            if citation:
+                metadata.update({
+                    "citation_id": citation.get("citation_id", ""),
+                    "citation_type": citation.get("citation_type", ""),
+                    "jurisdiction": citation.get("jurisdiction", ""),
+                    "authoritative_source_url": citation.get("authoritative_source", {}).get("url", ""),
+                    "verification_status": citation.get("citation_status", ""),
+                    "last_verified_date": citation.get("verification_date", ""),
+                    "legal_disclaimer": "This information is for reference only and does not constitute legal advice."
+                })
+
             collection.upsert(ids=[doc_id], documents=[chunk], metadatas=[metadata])
-    client.persist()
+            ingested_count += 1
+
+    # PersistentClient flushes automatically; nothing to do here.
+    print(f"Ingested {ingested_count} chunks from {len([r for r in records if r.get('status') == 'success'])} documents")
+    if citations_map:
+        print(f"Enhanced metadata from {len(citations_map)} IF.TTT citations")
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Ingest downloaded corpus into ChromaDB")
+    parser = argparse.ArgumentParser(
+        description="Ingest downloaded corpus into ChromaDB with IF.TTT citation metadata"
+    )
     parser.add_argument(
         "--manifest",
         default="manifests/download_manifest.csv",
@@ -85,8 +141,13 @@ def main() -> None:
         default="indexes/chromadb",
         help="ChromaDB directory",
     )
+    parser.add_argument(
+        "--citations",
+        default=None,
+        help="Path to citations JSON file (optional, auto-detects if not provided)",
+    )
     args = parser.parse_args()
-    ingest(args.manifest, args.db_dir)
+    ingest(args.manifest, args.db_dir, args.citations)
 
 
 if __name__ == "__main__":
