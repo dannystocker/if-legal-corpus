@@ -7,9 +7,9 @@ This roadmap tracks coverage of the inventory listed in `LEGAL_CORPUS_IMPORT_LIS
 | Metric | Value |
 | --- | --- |
 | **Total inventory items** | 153 |
-| **Status: success** | 91 |
-| **Status: error** | 45 |
-| **Status: no_direct_link** | 17 |
+| **Status: success** | 64 |
+| **Status: error** | 26 |
+| **Status: no_direct_link** | 63 |
 | **Chroma vector count** | 5,290 vectors |
 | **Raw corpus size** | ~16 MB |
 
@@ -38,8 +38,8 @@ All 5 critical UK P0 documents have been integrated into the corpus as of 2025-1
 | EU | 0 | 8 | 2 | 10 |
 | Germany | 6 | 0 | 1 | 7 |
 | France | 0 | 4 | 1 | 5 |
-| Canada | 4 | 3 | 2 | 9 |
-| Australia | 3 | 3 | 0 | 6 |
+| Canada | 8 | 0 | 1 | 9 |
+| Australia | 6 | 0 | 0 | 6 |
 | UK | 12 | 0 | 0 | 12 |
 | Datasets | 1 | 0 | 2 | 3 |
 | Case Law | 0 | 0 | 25 | 25 |
@@ -50,6 +50,5 @@ All 5 critical UK P0 documents have been integrated into the corpus as of 2025-1
 
 ## Unable to download — reasons and workarounds
 - Items without direct URLs (for example, some case law rows) will be marked `no_direct_link` in the manifest. Extend the downloader to use CourtListener or other APIs by citation to automate these where possible.
-- HTTP 403 Forbidden errors on several domain (ftc.gov, legifrance.gouv.fr, sagaftra.org) indicate bot detection or access restrictions. Consider implementing delay-based retry with user-agent rotation.
-- Connection timeouts on house.gov and fairwork.gov.au indicate network/firewall issues. These should be retried during off-peak hours or from alternative IP ranges.
-
+- HTTP 403 Forbidden errors on several EU & French domains (legifrance.gouv.fr, sagaftra.org) indicate bot detection or access restrictions; those entries remain unresolved.  
+- Connection timeouts on house.gov and fairwork.gov.au have been resolved with alternate endpoints (`laws.justice.gc.ca`, `legislation.gov.au`); the French case law still needs human attention or an API-assisted download.
