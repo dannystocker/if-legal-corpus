@@ -1,0 +1,304 @@
+<html lang="en" class="k-delaware" xmlns:delcode="urn:delcode:xslt">
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-16">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1.0">
+    <title>Delaware Code Online</title>
+    <meta name="author" content="Delaware Legislature">
+    <link rel="stylesheet" href="../../Content/css/bootstrap.css">
+    <link rel="stylesheet" href="../../Content/css/bootstrap-theme.css">
+    <link rel="stylesheet" href="../../Content/css/kendo.common-delaware.min.css">
+    <link rel="stylesheet" href="../../Content/css/kendo.delaware.min.css">
+    <link rel="stylesheet" href="../../Content/css/Kendo/2016.1.112/kendo.material.mobile.min.css">
+    <link rel="stylesheet" href="../../Content/css/styles.css">
+    <link rel="stylesheet" href="../../Content/css/delcode.css">
+    <link rel="stylesheet" href="../../Content/css/yammcessible.css">
+    <link rel="stylesheet" href="../../Content/css/selectbox.css">
+    <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css"><script src="../../Content/scripts/jquery-2.1.4.min.js"></script><script src="../../Content/scripts/jquery-ui-custom.min.js"></script><script src="../../Content/scripts/bootstrap.js"></script><script src="../../Content/scripts/jquery-yammcessible.js"></script><script src="../../Content/scripts/jquery.selectBoxIt.min.js"></script><script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-67562883-1', 'auto');
+          ga('send', 'pageview');
+
+        </script></head>
+  <body>
+    <div class="page-container">
+      <div class="container container-header">
+        <div class="row"><header class="clearfix"><div class="col-xs-24 col-sm-15 col-lg-16">
+              <h1><a href="../" title="Return to The Delaware Code Online Home Page">The Delaware Code Online</a></h1>
+              <div class="mobile-toggles hidden-sm hidden-md hidden-lg"><button type="button" class="search-toggle" data-toggle="collapse" data-target="#header-search-collapse"><span class="sr-only">Toggle search</span><i class="glyphicon glyphicon-search"></i></button><button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#de-navbar-collapse-1"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button></div>
+            </div>
+            <div id="header-search-collapse" class="col-xs-24 col-sm-9 col-lg-8 search-collapse collapse">
+              <div class="input-group"><input type="text" class="form-control" placeholder="Enter Search Terms" name="srch-term" id="srch-term"><div class="input-group-btn"><button class="btn" type="submit" onclick="submitSearch()"><i class="glyphicon glyphicon-search"></i></button></div>
+              </div>
+            </div></header></div><nav id="myNavbar" class="navbar navbar-default yamm megamenu" role="navigation"><div class="collapse navbar-collapse" id="de-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+              <li class="dropdown yamm-fw"><a href="https://legis.delaware.gov/SessionLaws"><span class="hidden-sm">
+                        Laws of Delaware
+                      </span><span class="hidden-xs hidden-md hidden-lg">
+                        Laws of <br>Delaware
+                      </span></a></li>
+              <li class="dropdown yamm-fw"><a href="http://regulations.delaware.gov/"><span class="hidden-sm">
+                        Regulations
+                      </span><span class="hidden-xs hidden-md hidden-lg">
+                        Regulations
+                      </span></a></li>
+              <li class="dropdown  yamm-fw"><a href="http://regulations.delaware.gov/AdminCode/"><span class="hidden-sm">
+                        Administrative Code
+                      </span><span class="hidden-xs hidden-md hidden-lg">
+                        Administrative <br>Code
+                      </span></a></li>
+              <li class="dropdown yamm-fw"><a href="http://charters.delaware.gov/"><span class="hidden-sm">
+                        Municipal Charters
+                      </span><span class="hidden-xs hidden-md hidden-lg">
+                        Municipal <br>Charters
+                      </span></a></li>
+              <li class="dropdown yamm-fw"><a href="#">FAQ</a></li>
+            </ul>
+          </div></nav></div>
+      <div id="content" class="container container-home" role="main">
+        <div class="row">
+          <div class="col-xs-24"><span class="breadcrumb delcrumb">
+                  Title 6</span><span class="breadcrumb delcrumb pull-right text-right"><a href="&#xA;                      Title6.pdf&#xA;                    ">
+                    Authenticated PDF
+                  </a></span><h2>Commerce and Trade</h2>
+          </div>
+        </div>
+        <div>
+          <h3>
+                      Subtitle I</h3>
+          <h3>Uniform Commercial Code</h3>
+          <div class="title-links"><a href="../title6/c001/index.html">
+                          Article 1. General Provisions</a></div>
+          <div class="title-links"><a href="../title6/c002a/index.html">
+                          Article 2A. Leases</a></div>
+          <div class="title-links"><a href="../title6/c002/index.html">
+                          Article 2. Sales</a></div>
+          <div class="title-links"><a href="../title6/c003/index.html">
+                          Article 3. Negotiable Instruments</a></div>
+          <div class="title-links"><a href="../title6/c004a/index.html">
+                          Article 4A. Funds Transfers</a></div>
+          <div class="title-links"><a href="../title6/c004/index.html">
+                          Article 4. Bank Deposits and Collections</a></div>
+          <div class="title-links"><a href="../title6/c005/index.html">
+                          Article 5. Letters of Credit</a></div>
+          <div class="title-links"><a href="../title6/c006/index.html">
+                          Article 6. Bulk Transfers [Repealed].</a></div>
+          <div class="title-links"><a href="../title6/c007/index.html">
+                          Article 7. Documents of Title</a></div>
+          <div class="title-links"><a href="../title6/c008/index.html">
+                          Article 8. Investment Securities</a></div>
+          <div class="title-links"><a href="../title6/c009/index.html">
+                          Article 9. Secured Transactions</a></div>
+          <div class="title-links"><a href="../title6/c010/index.html">
+                          Article 10. Effective Date and Repealer</a></div>
+          <div class="title-links"><a href="../title6/c011/index.html">
+                          Article 11. Effective Date and Transition Provisions</a></div>
+          <div class="title-links"><a href="../title6/c012/index.html">
+                          Article 12. Controllable Electronic Records</a></div>
+          <div class="title-links"><a href="../title6/c000a/index.html">
+                          Article A. Transitional Provisions for Uniform Commercial Code Amendments 2022</a></div>
+        </div>
+        <div>
+          <h3>
+                      Subtitle II</h3>
+          <h3>Other Laws Relating to Commerce and Trade</h3>
+          <div class="title-links"><a href="../title6/c012_1/index.html">
+                          Chapter 12. DELAWARE FALSE CLAIMS AND REPORTING ACT</a></div>
+          <div class="title-links"><a href="../title6/c012a/index.html">
+                          Chapter 12A. UNIFORM ELECTRONIC TRANSACTIONS ACT</a></div>
+          <div class="title-links"><a href="../title6/c012b/index.html">
+                          Chapter 12B. COMPUTER SECURITY BREACHES</a></div>
+          <div class="title-links"><a href="../title6/c012c/index.html">
+                          Chapter 12C. ONLINE AND PERSONAL PRIVACY PROTECTION</a></div>
+          <div class="title-links"><a href="../title6/c012d/index.html">
+                          Chapter 12D. Delaware Personal Data Privacy Act</a></div>
+          <div class="title-links"><a href="../title6/c013/index.html">
+                          Chapter 13. FRAUDULENT TRANSFERS</a></div>
+          <div class="title-links"><a href="../title6/c013a/index.html">
+                          Chapter 13A. DISHONOR OF CHECKS, DRAFTS OR ORDERS</a></div>
+          <div class="title-links"><a href="../title6/c014/index.html">
+                          Chapter 14. DELAWARE WORKERS COOPERATIVE ACT</a></div>
+          <div class="title-links"><a href="../title6/c015/index.html">
+                          Chapter 15. DELAWARE REVISED UNIFORM PARTNERSHIP ACT</a></div>
+          <div class="title-links"><a href="../title6/c017/index.html">
+                          Chapter 17. LIMITED PARTNERSHIPS</a></div>
+          <div class="title-links"><a href="../title6/c018/index.html">
+                          Chapter 18. LIMITED LIABILITY COMPANY ACT</a></div>
+          <div class="title-links"><a href="../title6/c019/index.html">
+                          Chapter 19. DELAWARE UNIFORM UNIN- CORPORATED NONPROFIT ASSOCIATION ACT</a></div>
+          <div class="title-links"><a href="../title6/c020/index.html">
+                          Chapter 20. TRADE SECRETS</a></div>
+          <div class="title-links"><a href="../title6/c021/index.html">
+                          Chapter 21. ANTITRUST</a></div>
+          <div class="title-links"><a href="../title6/c022/index.html">
+                          Chapter 22. CREDIT AND IDENTITY THEFT PROTECTION</a></div>
+          <div class="title-links"><a href="../title6/c023/index.html">
+                          Chapter 23. INTEREST</a></div>
+          <div class="title-links"><a href="../title6/c024/index.html">
+                          Chapter 24. CREDIT SERVICES ORGANIZATIONS</a></div>
+          <div class="title-links"><a href="../title6/c024a/index.html">
+                          Chapter 24A. DEBT-MANAGEMENT SERVICES</a></div>
+          <div class="title-links"><a href="../title6/c024b/index.html">
+                          Chapter 24B. FORECLOSURE CONSULTANTS AND RECONVEYANCES</a></div>
+          <div class="title-links"><a href="../title6/c024c/index.html">
+                          Chapter 24C. MORTGAGE LOAN MODIFICATION SERVICES</a></div>
+          <div class="title-links"><a href="../title6/c025/index.html">
+                          Chapter 25. PROHIBITED TRADE PRACTICES</a></div>
+          <div class="title-links"><a href="../title6/c025a/index.html">
+                          Chapter 25A. TELEMARKETING REGISTRATION AND FRAUD PREVENTION</a></div>
+          <div class="title-links"><a href="../title6/c025b/index.html">
+                          Chapter 25B. DELAWARE RESIDENTIAL WATER TREATMENT SYSTEM SALES</a></div>
+          <div class="title-links"><a href="../title6/c025c/index.html">
+                          Chapter 25C. TOY SAFETY</a></div>
+          <div class="title-links"><a href="../title6/c025d/index.html">
+                          Chapter 25D. DELAWARE SERVICEMEMBERS CIVIL RELIEF ACT</a></div>
+          <div class="title-links"><a href="../title6/c025e/index.html">
+                          Chapter 25E. Delaware Federal Employees Civil Relief Act</a></div>
+          <div class="title-links"><a href="../title6/c025f/index.html">
+                          Chapter 25F. Patient Brokering</a></div>
+          <div class="title-links"><a href="../title6/c025g/index.html">
+                          Chapter 25G. Chemical Flame Retardant Restrictions</a></div>
+          <div class="title-links"><a href="../title6/c025h/index.html">
+                          Chapter 25H. Consumer Equal Access Protection Act</a></div>
+          <div class="title-links"><a href="../title6/c025i/index.html">
+                          Chapter 25I. Sealed Container Defense in Product Liability</a></div>
+          <div class="title-links"><a href="../title6/c025j/index.html">
+                          Chapter 25J. Medical Debt Protection Act</a></div>
+          <div class="title-links"><a href="../title6/c025k/index.html">
+                          Chapter 25K. Dementia Care Services Mandatory Disclosure  [For application of this chapter, see 84 Del. Laws, c. 328, § 2]</a></div>
+          <div class="title-links"><a href="../title6/c025l/index.html">
+                          Chapter 25L. Gift Card Fraud</a></div>
+          <div class="title-links"><a href="../title6/c025m/index.html">
+                          Chapter 25M. Limited Services Medical Facilities</a></div>
+          <div class="title-links"><a href="../title6/c026/index.html">
+                          Chapter 26. UNFAIR CIGARETTE SALES ACT</a></div>
+          <div class="title-links"><a href="../title6/c027/index.html">
+                          Chapter 27. CONTRACTS</a></div>
+          <div class="title-links"><a href="../title6/c027a/index.html">
+                          Chapter 27A. ASSET-BACKED SECURITIES FACILITATION ACT</a></div>
+          <div class="title-links"><a href="../title6/c028/index.html">
+                          Chapter 28. CAMPGROUND RESORTS MEMBERSHIP AND VACATION TIME-SHARING PLANS SALES ACT</a></div>
+          <div class="title-links"><a href="../title6/c029/index.html">
+                          Chapter 29. RETAIL SALES OF MOTOR FUEL</a></div>
+          <div class="title-links"><a href="../title6/c031/index.html">
+                          Chapter 31. Registration of Trade Names</a></div>
+          <div class="title-links"><a href="../title6/c033/index.html">
+                          Chapter 33. TRADEMARKS, BRANDS AND LABELS</a></div>
+          <div class="title-links"><a href="../title6/c033a/index.html">
+                          Chapter 33A. TRUTH IN MUSIC</a></div>
+          <div class="title-links"><a href="../title6/c034/index.html">
+                          Chapter 34. CONTRACTS FOR PROVIDING SERVICE AND FUEL FOR RESIDENTIAL HEATING SYSTEMS</a></div>
+          <div class="title-links"><a href="../title6/c035/index.html">
+                          Chapter 35. BUILDING CONSTRUCTION PAYMENTS</a></div>
+          <div class="title-links"><a href="../title6/c036/index.html">
+                          Chapter 36. HOME CONSTRUCTION AND IMPROVEMENT PROTECTION</a></div>
+          <div class="title-links"><a href="../title6/c037/index.html">
+                          Chapter 37. SALE OF SECONDHAND WATCHES</a></div>
+          <div class="title-links"><a href="../title6/c038/index.html">
+                          Chapter 38. BROADCASTING SUPPLEMENTARY PUBLIC NOTICES</a></div>
+          <div class="title-links"><a href="../title6/c039/index.html">
+                          Chapter 39. NEWSPAPERS</a></div>
+          <div class="title-links"><a href="../title6/c040/index.html">
+                          Chapter 40. PET WARRANTIES</a></div>
+          <div class="title-links"><a href="../title6/c041/index.html">
+                          Chapter 41. DRY CLEANERS AND LAUNDERERS</a></div>
+          <div class="title-links"><a href="../title6/c042/index.html">
+                          Chapter 42. HEALTH SPA REGULATION</a></div>
+          <div class="title-links"><a href="../title6/c043/index.html">
+                          Chapter 43. RETAIL INSTALLMENT SALES</a></div>
+          <div class="title-links"><a href="../title6/c044/index.html">
+                          Chapter 44. HOME SOLICITATION SALES</a></div>
+          <div class="title-links"><a href="../title6/c045/index.html">
+                          Chapter 45. EQUAL ACCOMMODATIONS</a></div>
+          <div class="title-links"><a href="../title6/c046/index.html">
+                          Chapter 46. FAIR HOUSING ACT</a></div>
+          <div class="title-links"><a href="../title6/c047/index.html">
+                          Chapter 47. TRANSIENT RETAILERS</a></div>
+          <div class="title-links"><a href="../title6/c048/index.html">
+                          Chapter 48. SHOPPING CENTERS</a></div>
+          <div class="title-links"><a href="../title6/c049/index.html">
+                          Chapter 49. MOTOR VEHICLE FRANCHISING PRACTICES</a></div>
+          <div class="title-links"><a href="../title6/c049a/index.html">
+                          Chapter 49A. AUTO REPAIR FRAUD PREVENTION</a></div>
+          <div class="title-links"><a href="../title6/c049b/index.html">
+                          Chapter 49B. Rental Car Companies [For application of this chapter, see 84 Del. Laws, c. 363, § 3]</a></div>
+          <div class="title-links"><a href="../title6/c050/index.html">
+                          Chapter 50. AUTOMOBILE WARRANTIES</a></div>
+          <div class="title-links"><a href="../title6/c050a/index.html">
+                          Chapter 50A. FARM EQUIPMENT WARRANTIES</a></div>
+          <div class="title-links"><a href="../title6/c050b/index.html">
+                          Chapter 50B. ASSISTIVE TECHNOLOGY DEVICE WARRANTIES AND CONSUMER PROTECTION</a></div>
+          <div class="title-links"><a href="../title6/c050c/index.html">
+                          Chapter 50C. SAFE DESTRUCTION OF RECORDS CONTAINING PERSONAL IDENTIFYING INFORMATION</a></div>
+          <div class="title-links"><a href="../title6/c050d/index.html">
+                          Chapter 50D. Abandoned Cultural Property Act</a></div>
+          <div class="title-links"><a href="../title6/c050e/index.html">
+                          Chapter 50E. Certification of Adoption of Transparency and Sustainability standards by Delaware Business Entities</a></div>
+        </div>
+        <div>
+          <h3>
+                      Subtitle III</h3>
+          <h3>Weights, Measures and Standards</h3>
+          <div class="title-links"><a href="../title6/c051/index.html">
+                          Chapter 51. STANDARD WEIGHTS AND MEASURES</a></div>
+          <div class="title-links"><a href="../title6/c053/index.html">
+                          Chapter 53. STANDARDS FOR MASON WORK</a></div>
+          <div class="title-links"><a href="../title6/c055/index.html">
+                          Chapter 55. PLANE COORDINATE SYSTEM</a></div>
+        </div>
+        <div>
+          <h3>
+                      Subtitle IV</h3>
+          <h3>Commercial Development</h3>
+          <div class="title-links"><a href="../title6/c070/index.html">
+                          Chapter 70. Delaware Economic Development Authority [Transferred].</a></div>
+          <div class="title-links"><a href="../title6/c073/index.html">
+                          Chapter 73. SECURITIES ACT</a></div>
+          <div class="title-links"><a href="../title6/c074/index.html">
+                          Chapter 74. Export Trading Companies [Repealed].</a></div>
+          <div class="title-links"><a href="../title6/c075/index.html">
+                          Chapter 75. FOREIGN TRADE ZONES</a></div>
+          <div class="title-links"><a href="../title6/c076/index.html">
+                          Chapter 76. DELAWARE LEASE-PURCHASE AGREEMENT ACT</a></div>
+          <div class="title-links"><a href="../title6/c077/index.html">
+                          Chapter 77. VOLUNTARY ALTERNATIVE DISPUTE RESOLUTION</a></div>
+        </div>
+        <div></div>
+      </div>
+    </div><footer class="footer"><div class="container footer-container">
+        <div class="row">
+          <div class="col-md-24 footer-block delcode-footer">
+            <ul class="list-unstyled">
+              <li><a href="http://legis.delaware.gov/">Delaware General Assembly</a></li>
+              <li><a href="http://courts.delaware.gov/">Judicial</a></li>
+              <li><a href="http://delaware.gov">Executive</a></li>
+              <li><a href="http://delaware.gov/help/degov-contact.shtml">Contact</a></li>
+              <li><a href="https://twitter.com/delaware_gov/">Twitter</a></li>
+              <li><a href="../help/default.html">Help</a></li>
+            </ul>
+          </div>
+        </div>
+      </div></footer></body>
+</html><script type="text/javascript" xmlns:delcode="urn:delcode:xslt">
+      function submitSearch() {
+      if (!window.location.origin) {
+      window.location.origin = window.location.protocol + "//" + window.location.hostname + (window.location.port ? ':' + window.location.port : '');
+      }
+
+      keyword = document.getElementById('srch-term').value;
+
+      window.location.href = "/Search?query=" + keyword;
+      }
+
+      document.getElementById('srch-term').onkeyup = function (e) {
+        if (e.keyCode == 13) {
+          submitSearch();
+        }  
+      };
+    </script>

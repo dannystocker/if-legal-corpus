@@ -1,0 +1,1275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>
+        Schedule of Minimums
+    </title>
+    <!--<script src="https://use.typekit.net/ugl7hdc.js"></script>-->
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&amp;family=Raleway:wght@100;300;400;700&amp;display=swap" rel="stylesheet">
+    
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    <script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="stylesheet" href="/wga-main/css/bootstrap.min.css" media="screen" />
+
+    <script src="https://kit.fontawesome.com/8661917a00.js" crossorigin="anonymous"></script>
+    
+    <link rel="stylesheet" href="/wga-main/css/navigation.min.css?v=1.1" media="screen" />
+
+    <link rel="stylesheet" href="/wga-main/css/style.min.css?v=2.2" media="screen" />
+
+    <link rel="stylesheet" href="/wga-main/css/print.min.css" media="print" />
+
+    <script>
+        var doNotRunBreadcrumbs = false;
+    </script>
+    
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+	
+    
+    <link rel="stylesheet" href="/wga-main/css/interior.min.css" media="screen" />
+
+
+	<style>
+swiper-container {
+    background-color: #e1e8f8;
+    border: solid 1px #b0b3b8;
+    color: #0f314d;
+    margin-top: 5px !important;
+    width: 100%;
+}
+
+swiper-slide {
+    font-size: 18px;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 50px;
+    position: relative;
+}
+
+swiper-slide h3 {
+    font-size: 21px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+swiper-slide p,
+swiper-slide .name,
+swiper-slide .position {
+    font-size: 14px;
+}
+
+swiper-slide .name {
+    font-weight: 700;
+    font-style: italic;
+}
+
+swiper-slide .position {
+    font-style: italic;
+}
+
+#page-content swiper-slide .quote-content p:first-of-type {
+    margin-top: 0 !important;
+}
+
+swiper-slide .img-container {
+    float: left;
+    margin-right: 17px;
+    margin-top: 6px;
+    margin-bottom: 5px;
+    display: block;
+    max-width: 98px;
+    position: relative;
+    height: auto;
+}
+
+swiper-slide .img-container img {
+    width: 100%;
+    height: auto;
+}
+
+swiper-slide .quote-mark {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    width: 124px;
+    opacity: .12;
+}
+
+swiper-slide .quote-mark svg {}
+
+swiper-slide .img-container svg path {
+    fill: #484a45;
+}
+
+
+</style>
+<link rel="stylesheet" type="text/css" href="/wga-main/css/accordion.min.css" />
+<style type="text/css">
+:target {
+  display: block;
+  position: relative;
+  top: 120px; 
+  visibility: hidden;
+}
+</style>
+<style type="text/css">
+a.anchor-faq {
+    display: block;
+    position: relative;
+    top: -250px;
+    visibility: hidden;
+}
+</style>
+<style>
+     .maintenance-alert {
+         background: #fff3cd;
+         /* soft yellow warning tone */
+         color: #856404;
+         /* darker text for contrast */
+         border: 1px solid #ffeeba;
+         padding: 12px 18px;
+         font-size: 16px;
+         font-family: Arial, sans-serif;
+         display: flex;
+         align-items: center;
+         box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+         justify-content: center;
+     }
+
+     .maintenance-alert::before {
+         content: "⚠️";
+         margin-right: 10px;
+         font-size: 20px;
+     }
+     .maintenance-alert p {
+         margin-bottom: 0;
+     }
+</style>
+
+	
+	
+	
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H5111Q1YR7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-H5111Q1YR7');
+</script>
+
+	
+
+<meta property="og:title" content="Schedule of Minimums" /><meta property="og:description" content="This schedule covers the entire term of the 2023 Basic Agreement, but is not a substitute for the Basic Agreement. If there is any inconsistency between this schedule and the Basic Agreement, the Basic Agreement controls." /><meta property="og:image" content="http://origin.www.wga.org/WGAW_Logo.jpg" />
+<meta property="fb:app_id" content="714194632075288" />
+<meta property="og:url" content="https://www.wga.org/contracts/contracts/schedule-of-minimums" />
+<meta property="og:type" content="article" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@wgawest" />
+<meta name="twitter:creator" content="@wgawest" />
+</head>
+<body>
+    
+
+
+
+<div id="wrapper" style="overflow:hidden;">
+    <!--cmsoff: index -->
+    <a id="nav-overlay" href="#"></a>
+    <div class="form-overlay" style="display:none"></div>
+    <div id="header" class="nocontent">
+        <div class="container-fluid">
+            <div class="row">
+                <a class="home-link" href="http://www.wga.org"><img srcset="https://secure.wga.org/WGA-Main/images/template/wga-logo-17-3.png 1x, https://secure.wga.org/WGA-Main/images/template/wga-logo2x-17-3.png 2x" class="branding" alt=""></a>
+                <div id="search">
+                    <i class="fa fa-search"></i>
+                    <span class="close">X</span>
+                    <input type="text" id="search-input" name="search" placeholder="Search &amp; Lookups" />
+                    <div class="interactive">
+                        <h5>Other Searches</h5>
+                        <ul class="cms-menu-0"><li class="first"><a href="https://directories.wga.org/" target="_self">Find a Writer</a></li><li><a href="/employers/signatories/signatory-lookup" target="_self">Signatory Lookups</a></li><li><a href="https://apps.wga.org/undeliverables/default.aspx" target="_self">Undeliverable Funds</a></li><li class="last"><a href="/the-guild/levies-payments/foreign-levies-program" target="_self">Foreign Levies</a></li></ul>
+                    </div>
+                    
+                    <div class="welcome-name nocontent" style="display:none;">
+                        <div class="logout">
+                            <a id='dashboard-link_logout'  class='member_logout hide'>Logout</a>
+                        </div>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="nav" class="nocontent">
+        <div class="container-fluid">
+            <div class="row nocontent">
+                <div class="mobile-nav-toggle"><a href="#"><i class="fa fa-bars"></i> Menu</a><div class="mobile-close"><a href="#"><i class="fa fa-times"></i> Close</a></div></div>
+                <nav>
+                    <ul class="cms-menu-0 nocontent"><li class="first"><a href="/members" target="_self">Members</a></li><li><a href="/employers" target="_self">Employers & Agents</a></li><li><a href="/contracts" target="_self">Contracts & Enforcement</a></li><li><a href="/the-guild" target="_self">The Guild</a></li><li><a href="/news-events" target="_self">News & Events</a></li><li class="last"><a href="/writers-room" target="_self">Writers' Room</a></li></ul>
+                </nav>
+                <!-- Display the link below when user is not logged in-->
+                <!--<a href="#" class="button-tag pull-right">Member Login</a>-->
+                
+                <!-- Display the link below when user IS logged in-->
+                
+                <a id="dashboard-link_login" href="javascript:void(0);" class="button-tag pull-right member_login hide"><i class="fa fa-user" aria-hidden="true"></i> myWGA ACCOUNT</a>
+<a id="dashboard-link" href="javascript:void(0);" class="btn-circle pull-right member_dashboard hide">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>
+    <div id="login-popover">
+        <div class="title">Member Dashboard</div>
+        <div class="content">Access myWGA & more</div>
+    </div>
+</a>
+<div id="login-message" class="hide">
+    <div id="loggedin">
+        <div class="label">Welcome:</div>
+        <div><a href="javascript:void(0);"><i class="fa fa-user fa-fw" aria-hidden="true"></i><span id="loggedin-name"></span></a></div>
+    </div>
+    <div id="managing">
+        <div class="label">Managing:</div>
+        <div><a href="javascript:void(0);"><i class="fa fa-exchange fa-fw" aria-hidden="true"></i><span id="managing-name"></span></a></div>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+    <div id="megamenus" class="nocontent">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="megamenu nocontent" data-order="2">
+    <div class="inner">
+        <div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="Contracts" title="Contracts">Contracts</span></div>
+    <ul>
+        <li><a href="/contracts/contracts/mba" class="" alt="Minimum Basic Agreement">Minimum Basic Agreement</a></li>
+<li><a href="/contracts/contracts/schedule-of-minimums" class="" alt="Schedule of Minimums">Schedule of Minimums</a></li>
+<li><a href="/contracts/contracts/other-contracts" class="" alt="Other Contracts">Other Contracts</a></li>
+<li><a href="https://apps.wga.org/forms/submitcontract.aspx" class="" alt="Submit Your Contract">Submit Your Contract</a></li>
+
+    </ul>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="Enforcement" title="Enforcement">Enforcement</span></div>
+    <ul>
+        <li><a href="/contracts/enforcement/start-button" class="" alt="">Start Button</a></li>
+<li><a href="/contracts/enforcement/how-the-guild-tackles-late-pay" class="" alt="Late Pay">Late Pay</a></li>
+<li><a href="/contracts/enforcement/protect-yourself-against-free-work" class="" alt="Free Work">Free Work</a></li>
+<li><a href="/contracts/enforcement/legal-services" class="" alt="Legal Services">Legal Services</a></li>
+<li><a href="/contracts/enforcement/report-a-violation" class="" alt="Report a Violation">Report a Violation</a></li>
+<li><a href="https://my.wga.org/startbutton/InvoiceApplication.aspx" class="members-only" alt="Invoice Tool">Screenwriter Invoice Tool</a></li>
+
+    </ul>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="Know Your Rights" title="Know Your Rights">Know Your Rights</span></div>
+    <ul>
+        <li><a href="/contracts/know-your-rights/discrimination-harassment-and-workplace-bullying" class="" alt="Discrimination">Discrimination, Harassment &amp; Bullying</a></li>
+<li><a href="/contracts/know-your-rights/parental-leave-related-rights" class="" alt="">Parental Leave</a></li>
+<li><a href="/contracts/know-your-rights/creative-rights" class="" alt="Creative Rights">Creative Rights</a></li>
+<li><a href="/contracts/know-your-rights/understanding-separated-rights" class="" alt="Separated Rights">Separated Rights</a></li>
+<li><a href="/contracts/know-your-rights/artificial-intelligence" class="" alt="">Artificial Intelligence</a></li>
+<li><a href="/contracts/know-your-rights/know-your-rights-ice-raids" class="" alt="">ICE Raids</a></li>
+
+    </ul>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="Credits" title="Credits">Credits</span></div>
+    <ul>
+        <li><a href="/contracts/credits/forms" class="" alt="Forms">Forms</a></li>
+<li><a href="/contracts/credits/manuals" class="" alt="Manuals">Manuals</a></li>
+
+    </ul>
+</div>
+
+        <!--<div class="menu-callouts">
+            <div class="menu-cta">
+                <a href="/contracts/contracts/mba" class="overlay-link"></a>
+                <img src="/wga-main/images/menus/cta-large_mba.jpg" alt="Start Button - Notify the Guild when you start a screenwriting project" title="Start Button - Notify the Guild when you start a screenwriting project" class="nocontent" />
+                <div class="mobile-cta">
+                    <h4>Start Button</h4>
+                    <p>Notify the Guild when you start a screenwriting project</p>
+                </div>
+            </div>
+            <div class="menu-cta">
+                <a href="/contracts/enforcement/report-a-violation" class="overlay-link"></a>
+                <img src="/wga-main/images/menus/cta_report-violation.jpg" alt="Minimum Basic Agreement - Obtain the 2017 MBA and Schedule of Minimums" title="Minimum Basic Agreement - Obtain the 2017 MBA and Schedule of Minimums" class="nocontent" />
+                <div class="mobile-cta">
+                    <h4>Minimum Basic Agreement</h4>
+                    <p>Obtain the 2017 MBA and Schedule of Minimums</p>
+                </div>
+            </div>
+            <div class="menu-cta">
+                <a href="/contracts/credits/forms" class="overlay-link"></a>
+                <img src="/wga-main/images/menus/cta_credits-forms-info.jpg" alt="Credits Forms &amp; Info - Download: Official forms &amp; manuals" title="Credits Forms &amp; Info - Download: Official forms &amp; manuals" class="nocontent" />
+                <div class="mobile-cta">
+                    <h4>Credits Forms &amp; Info</h4>
+                    <p>Download: Official forms &amp; manuals</p>
+                </div>
+            </div>
+        </div>-->
+    </div>
+</div><div class="megamenu nocontent" data-order="1">
+    <div class="inner">
+        <div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="Employers" title="Employers">Employers</span></div>
+    <ul>
+        <li><a href="https://directories.wga.org/" class="" alt="Find a Writer">Find a Writer</a></li>
+<li><a href="/employers/employers/what-every-producer-needs-to-know" class="" alt="What Producers Need to Know">What Producers Need to Know</a></li>
+<li><a href="/employers/employers/weekly-worklist-requirement" class="" alt="Weekly Worklist Requirement">Weekly Worklist Requirement</a></li>
+<li><a href="/employers/employers/residuals-payment-report" class="" alt="Residuals Payment Report">Residuals Payment Report</a></li>
+<li><a href="https://apps.wga.org/forms/submitcontractco.aspx" class="" alt="Submit Contracts">Submit Contracts</a></li>
+
+    </ul>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="Signatories" title="Signatories">Signatories</span></div>
+    <ul>
+        <li><a href="/employers/signatories/become-a-signatory" class="" alt="Become a Signatory">Become a Signatory</a></li>
+<li><a href="/employers/signatories/signatory-lookup" class="" alt="Signatory Lookups">Signatory Lookups</a></li>
+<li><a href="/employers/signatories/strike-unfair-list" class="" alt="Strike/Unfair List">Strike/Unfair List</a></li>
+
+    </ul>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="Agencies" title="Agencies">Agencies</span></div>
+    <ul>
+        <li><a href="https://apps.wga.org/agency/agencylist.aspx" class="" alt="Signatory Agency List">Signatory Agency List</a></li>
+<li><a href="/employers/agencies/agency-agreements" class="" alt="Agency Agreements">Agency Agreements</a></li>
+<li><a href="/employers/agencies/become-a-franchised-agency" class="" alt="Become a Franchised Agency">Become a Franchised Agency</a></li>
+<li><a href="/employers/agencies/submit-documents-and-information" class="" alt="Submit Docs &amp; Info">Submit Agency Docs &amp; Info</a></li>
+<li><a href="/employers/agencies/wgaw-rep-report" class="" alt="">WGAW Rep Report</a></li>
+<li><a href="https://secure.wga.org/employers/agencies/agency-and-manager-representation-guide" class="members-only" alt="">Representation Guide</a></li>
+
+    </ul>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="" title=""></span></div>
+    <ul>
+        <li><a href="" class="" alt=""></a></li>
+
+    </ul>
+</div>
+
+        <!--<div class="menu-callouts">
+            <div class="menu-cta">
+                <a href="https://directories.wga.org/" class="overlay-link"></a>
+                <img src="/wga-main/images/menus/cta-large_find-a-writer.jpg" alt="Find a Writer - Search members by name or background" title="Find a Writer - Search members by name or background" class="nocontent" />
+                <div class="mobile-cta">
+                    <h4>Find a Writer</h4>
+                    <p>Search members by name or background</p>
+                </div>
+            </div>
+            <div class="menu-cta">
+                <a href="https://apps.wga.org/agency/agencylist.aspx" class="overlay-link"></a>
+                <img src="/wga-main/images/menus/cta_agency-list.jpg" alt="Agency List - See the Guild signatory agency list" title="Agency List - See the Guild signatory agency list" class="nocontent" />
+                <div class="mobile-cta">
+                    <h4>Agency List</h4>
+                    <p>See the Guild signatory agency list</p>
+                </div>
+            </div>
+            <div class="menu-cta">
+                <a href="/employers/signatories/signatory-lookup" class="overlay-link"></a>
+                <img src="/wga-main/images/menus/cta_signatory-lookup.jpg" alt="Signatory Lookups - Find signatory projects and companies" title="Signatory Lookups - Find signatory projects and companies" class="nocontent" />
+                <div class="mobile-cta">
+                    <h4>Signatory Lookups</h4>
+                    <p>Find signatory projects and companies</p>
+                </div>
+            </div>
+        </div>-->
+    </div>
+</div><div class="megamenu nocontent" data-order="0">
+    <div class="inner">
+        <div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="Membership Information" title="Membership Information">Membership Information</span></div>
+    <ul>
+        <li><a href="/members/membership-information/benefits" class="" alt="Benefits">Benefits</a></li>
+<li><a href="/members/membership-information/constitution" class="" alt="Constitution">Constitution</a></li>
+<li><a href="/members/membership-information/constitution/working-rules" class="" alt="">Working Rules</a></li>
+<li><a href="/members/membership-information/committees" class="" alt="Committees">Committees</a></li>
+<li><a href="/members/membership-information/international-members" class="" alt="International Members">International Members</a></li>
+<li><a href="https://secure.wga.org/members/membership-information/communications-to-members" class="members-only" alt="">Communications to Members</a></li>
+<li><a href="/members/membership-information/wgaw-wildfire-resources" class="" alt="Wildfire Resources">Wildfire Resources</a></li>
+
+    </ul>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="Finances" title="Finances">Finances</span></div>
+    <ul>
+        <li><a href="https://www.wga.org/members/finances/declaring-your-earnings-for-wgaw-dues" class="" alt="Dues &amp; Earnings">Dues &amp; Earnings</a></li>
+<li><a href="/members/finances/residuals" class="" alt="Residuals">Residuals</a></li>
+<li><a href="/members/finances/good-welfare-emergency-assistance-loans" class="" alt="">Good &amp; Welfare Loans</a></li>
+
+    </ul>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="Employment Resources" title="Employment Resources">Employment Resources</span></div>
+    <ul>
+        <li><a href="/members/employment-resources/writers-deal-hub" class="" alt="Writers&#x2019; Deal Hub">The Writers&#x27; Deal Hub</a></li>
+<li><a href="https://directories.wga.org/platform" class="" alt="">WGA Platform</a></li>
+<li><a href="/members/employment-resources/ask-a-screenwriter" class="" alt="">Ask a Screenwriter</a></li>
+<li><a href="/members/employment-resources/wgaw-project-page" class="" alt="">Project Page</a></li>
+<li><a href="/members/employment-resources/screenwriters-handbook" class="" alt="Screenwriters Handbook">Screenwriters Handbook</a></li>
+<li><a href="/members/employment-resources/showrunner-hub" class="" alt="">Showrunner Hub</a></li>
+
+    </ul>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="Programs" title="Programs">Programs</span></div>
+    <ul>
+        <li><a href="/members/programs/member-organizing" class="" alt="">Member Organizing</a></li>
+<li><a href="/members/membership-information/new-members" class="" alt="">New Members</a></li>
+<li><a href="https://secure.wga.org/members/programs/member-organizing/captains-guide" class="members-only" alt="Captains ">Captains Program</a></li>
+<li><a href="/members/programs/showrunner-training" class="" alt="Showrunner Training">Showrunner Training</a></li>
+
+    </ul>
+</div>
+
+        <!--<div class="menu-callouts">
+            <div class="menu-cta">
+                <a href="https://my.wga.org/" class="overlay-link"></a>
+                <img src="/wga-main/images/menus/cta-large_mywga-account.jpg" alt="myWGA Account - Dues, declared earnings, residuals &amp; more" title="myWGA Account - Dues, declared earnings, residuals &amp; more" class="nocontent" />
+                <div class="mobile-cta">
+                    <h4>myWGA Account</h4>
+                    <p>Dues, declared earnings, residuals &amp; more</p>
+                </div>
+            </div>
+            <div class="menu-cta">
+                <a href="/members/membership-information/benefits/pension-health" class="overlay-link"></a>
+                <img src="/wga-main/images/menus/cta_pension-health.jpg" alt="Pension &amp; Health - Get coverage &amp; benefits info" title="Pension &amp; Health - Get coverage &amp; benefits info" class="nocontent" />
+                <div class="mobile-cta">
+                    <h4>Pension &amp; Health</h4>
+                    <p>Get coverage &amp; benefits info</p>
+                </div>
+            </div>
+            <div class="menu-cta">
+                <a href="https://www.facebook.com/WritersGuildWest" class="overlay-link"></a>
+                <img src="/wga-main/images/menus/cta_facebook.jpg" alt="Let&#x27;s be friends - Get members-only updates on Facebook" title="Let&#x27;s be friends - Get members-only updates on Facebook" class="nocontent" />
+                <div class="mobile-cta">
+                    <h4>Let&#x27;s be friends</h4>
+                    <p>Get members-only updates on Facebook</p>
+                </div>
+            </div>
+        </div>-->
+    </div>
+</div><div class="megamenu nocontent" data-order="4">
+    <div class="inner">
+        <div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="Events" title="Events">Events</span></div>
+    <ul>
+        <li><a href="https://secure.wga.org/news-events/events/calendar" class="members-only" alt="Calendar">Calendar</a></li>
+<li><a href="https://secure.wga.org/news-events/events/guild-panels" class="members-only" alt="Guild Panels">Guild Panels</a></li>
+<li><a href="/news-events/events/guild-screenings" class="" alt="Guild Screenings">Guild Screenings</a></li>
+
+    </ul>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="News" title="News">News</span></div>
+    <ul>
+        <li><a href="/news-events/news/press" class="" alt="Press Room">Press Room</a></li>
+<li><a href="/news-events/news/buzz" class="" alt="Buzz">Buzz</a></li>
+<li><a href="/news-events/news/in-memoriam" class="" alt="In Memoriam">In Memoriam</a></li>
+
+    </ul>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="Awards" title="Awards">Awards</span></div>
+    <ul>
+        <li><a href="https://awards.wga.org/awards/nominees-winners" class="" alt="Nominees &amp; Winners">Nominees &amp; Winners</a></li>
+<li><a href="https://awards.wga.org/submissions" class="" alt="Submissions">Submissions</a></li>
+<li><a href="https://awards.wga.org/voting" class="" alt="Voting">Voting</a></li>
+<li><a href="https://awards.wga.org/awards/show-details" class="" alt="Show Details">Show Details</a></li>
+<li><a href="https://awards.wga.org/videos" class="" alt="Highlights">Highlights</a></li>
+
+    </ul>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="" title=""></span></div>
+    <ul>
+        <li><a href="" class="" alt=""></a></li>
+
+    </ul>
+</div>
+
+        <!--<div class="menu-callouts">
+            <div class="menu-cta">
+                <a href="https://secure.wga.org/news-events/events/calendar" class="overlay-link"></a>
+                <img src="/wga-main/images/menus/cta-large_calendar.jpg" alt="Guild Calendar - Attend an upcoming WGAW event" title="Guild Calendar - Attend an upcoming WGAW event" class="nocontent" />
+                <div class="mobile-cta">
+                    <h4>Guild Calendar</h4>
+                    <p>Attend an upcoming WGAW event</p>
+                </div>
+            </div>
+            <div class="menu-cta">
+                <a href="/news-events/events/guild-screenings" class="overlay-link"></a>
+                <img src="/wga-main/images/menus/cta_screenings.jpg" alt="Guild Screenings - What&#x27;s playing at the Guild Theater?" title="Guild Screenings - What&#x27;s playing at the Guild Theater?" class="nocontent" />
+                <div class="mobile-cta">
+                    <h4>Guild Screenings</h4>
+                    <p>What&#x27;s playing at the Guild Theater?</p>
+                </div>
+            </div>
+            <div class="menu-cta">
+                <a href="https://awards.wga.org/" class="overlay-link"></a>
+                <img src="/WGA-Main/images/menus/Awards-small-callout22.jpg" alt="Writers Guild Awards - Nominees, winners, highlights &amp; more" title="Writers Guild Awards - Nominees, winners, highlights &amp; more" class="nocontent" />
+                <div class="mobile-cta">
+                    <h4>Writers Guild Awards</h4>
+                    <p>Nominees, winners, highlights &amp; more</p>
+                </div>
+            </div>
+        </div>-->
+    </div>
+</div><div class="megamenu nocontent" data-order="3">
+    <div class="inner">
+        <div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="About Us" title="About Us">About Us</span></div>
+    <ul>
+        <li><a href="/the-guild/about-us/guide-to-the-guild" class="" alt="Guide to the Guild">Guide to the Guild</a></li>
+<li><a href="/the-guild/about-us/contact-us" class="" alt="Contact Us">Contact Us</a></li>
+<li><a href="/the-guild/about-us/faq" class="" alt="FAQs">FAQs</a></li>
+<li><a href="/the-guild/about-us/officers-board-members" class="" alt="Officers and Board">Officers and Board</a></li>
+<li><a href="https://secure.wga.org/the-guild/about-us/annual-report" class="members-only" alt="Annual Report">Annual Report</a></li>
+<li><a href="http://www.writersguildtheater.com/" class="" alt="WGAW Theater">WGAW Theater</a></li>
+<li><a href="http://www.wgawregistry.org/" class="" alt="Register Your Script">Register Your Script</a></li>
+<li><a href="https://www.wgfoundation.org/" class="" alt="Writers Guild Foundation/Library">Foundation &amp; Library</a></li>
+<li><a href="/the-guild/about-us/wgaw-jobs" class="" alt="">Jobs</a></li>
+<li><a href="/the-guild/about-us/history" class="" alt="History">History</a></li>
+
+    </ul>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="Going Guild" title="Going Guild">Going Guild</span></div>
+    <ul>
+        <li><a href="/the-guild/going-guild/join-the-guild" class="" alt="Join">Join</a></li>
+<li><a href="/the-guild/going-guild/get-involved" class="" alt="Get Involved &amp; Organize">Get Involved &amp; Organize</a></li>
+<li><a href="/the-guild/going-guild/get-involved/animation" class="" alt="">Animation</a></li>
+<li><a href="/the-guild/going-guild/get-involved/digital-new-media" class="" alt="">Digital/New Media</a></li>
+<li><a href="/the-guild/going-guild/get-involved/documentary-nonfiction" class="" alt="">Docs &amp; Nonfiction</a></li>
+<li><a href="/the-guild/going-guild/get-involved/independent-film" class="" alt="">Indie Film</a></li>
+<li><a href="/the-guild/going-guild/get-involved/podcasts" class="" alt="">Podcasts</a></li>
+
+    </ul>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="Advocacy" title="Advocacy">Advocacy</span></div>
+    <ul>
+        <li><a href="/the-guild/advocacy/inclusion-and-equity" class="" alt="Inclusion and Equity">Inclusion and Equity</a></li>
+<li><a href="/the-guild/advocacy/politics-public-policy-pac" class="" alt="Politics &amp; Public Policy">Politics &amp; Public Policy</a></li>
+<li><a href="https://secure.wga.org/the-guild/advocacy/political-action-committee" class="members-only" alt="Political Action Committee">Political Action Committee</a></li>
+
+    </ul>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="Levies &amp; Payments" title="Levies &amp; Payments">Levies &amp; Payments</span></div>
+    <ul>
+        <li><a href="/the-guild/levies-payments/foreign-levies-program" class="" alt="Foreign Levies">Foreign Levies</a></li>
+<li><a href="https://apps.wga.org/undeliverables/" class="" alt="Undeliverable Funds">Undeliverable Funds</a></li>
+
+    </ul>
+</div>
+
+        <!--<div class="menu-callouts">
+            <div class="menu-cta">
+                <a href="/the-guild/going-guild/join-the-guild" class="overlay-link"></a>
+                <img src="/wga-main/images/menus/cta-large_join.jpg" alt="Join the Guild - How to become a member" title="Join the Guild - How to become a member" class="nocontent" />
+                <div class="mobile-cta">
+                    <h4>Join the Guild</h4>
+                    <p>How to become a member</p>
+                </div>
+            </div>
+            <div class="menu-cta">
+                <a href="" class="overlay-link"></a>
+                <img src="/wga-main/images/menus/cta_ask-a-question.jpg" alt="We&#x2019;re Here to Help - Ask Us a Question" title="We&#x2019;re Here to Help - Ask Us a Question" class="nocontent" />
+                <div class="mobile-cta">
+                    <h4>We&#x2019;re Here to Help</h4>
+                    <p>Ask Us a Question</p>
+                </div>
+            </div>
+            <div class="menu-cta">
+                <a href="/the-guild/levies-payments/foreign-levies-program" class="overlay-link"></a>
+                <img src="/wga-main/images/menus/cta_foreign-levies.jpg" alt="Foreign Levies - Find out if we have Foreign Levies for you" title="Foreign Levies - Find out if we have Foreign Levies for you" class="nocontent" />
+                <div class="mobile-cta">
+                    <h4>Foreign Levies</h4>
+                    <p>Find out if we have Foreign Levies for you</p>
+                </div>
+            </div>
+        </div>-->
+    </div>
+</div><div class="megamenu nocontent" data-order="5">
+    <div class="inner">
+        <div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="101 Best Lists" title="101 Best Lists">101 Best Lists</span></div>
+    <ul>
+        <li><a href="/writers-room/101-best-lists/101-greatest-screenplays" class="" alt="Screenplays">Screenplays</a></li>
+<li><a href="/writers-room/101-best-lists/101-best-written-tv-series" class="" alt="TV Shows">TV Shows</a></li>
+<li><a href="/writers-room/101-best-lists/101-funniest-screenplays" class="" alt="Funniest Screenplays">Funniest Screenplays</a></li>
+<li><a href="/writers-room/101-best-lists/101-best-screenplays-of-the-21st-century-so-far" class="" alt="Screenplays of the 21st Century (so far)">Screenplays of the 21st Century (so far)</a></li>
+
+    </ul>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="Features &amp; Columns" title="Features &amp; Columns">Features &amp; Columns</span></div>
+    <ul>
+        <li><a href="http://www.writtenby.com" class="" alt="<em>Written by</em>"><em>Written by</em></a></li>
+<li><a href="https://www.writtenby.com/3rd-and-fairfax-podcast" class="" alt="3rd &amp; Fairfax Podcast"><em>3rd &amp; Fairfax</em> Podcast</a></li>
+<li><a href="https://www.youtube.com/user/wgadotorg" class="" alt="WGAW Video">WGAW Video</a></li>
+
+    </ul>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="On the Web" title="On the Web">On the Web</span></div>
+    <ul>
+        <li><a href="/writers-room/on-the-web/fyi-listings-ask-the-expert" class="" alt="FYI Listings / Ask the Expert">FYI Listings / Ask the Expert</a></li>
+<li><a href="/writers-room/on-the-web/guilds-organizations" class="" alt="Guilds &amp; Organizations">Guilds &amp; Organizations</a></li>
+
+    </ul>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="title"><span href="" alt="" title=""></span></div>
+    <ul>
+        <li><a href="" class="" alt=""></a></li>
+
+    </ul>
+</div>
+
+        <!--<div class="menu-callouts">
+            <div class="menu-cta">
+                <a href="/writers-room/101-best-lists" class="overlay-link"></a>
+                <img src="/WGA-Main/images/menus/101-Best-Lists-lg.jpg" alt="101 Best Lists - What are the best written scripts &amp; shows of all time?" title="101 Best Lists - What are the best written scripts &amp; shows of all time?" class="nocontent" />
+                <div class="mobile-cta">
+                    <h4>101 Best Lists</h4>
+                    <p>What are the best written scripts &amp; shows of all time?</p>
+                </div>
+            </div>
+            <div class="menu-cta">
+                <a href="" class="overlay-link"></a>
+                <img src="/wga-main/images/menus/cta_the-craft.jpg" alt="The Craft - Get writers&#x2019; behind-the-screen stories" title="The Craft - Get writers&#x2019; behind-the-screen stories" class="nocontent" />
+                <div class="mobile-cta">
+                    <h4>The Craft</h4>
+                    <p>Get writers&#x2019; behind-the-screen stories</p>
+                </div>
+            </div>
+            <div class="menu-cta">
+                <a href="https://www.writtenby.com/3rd-and-fairfax-podcast" class="overlay-link"></a>
+                <img src="/WGA-Main/images/menus/3rd-Fairfax-menu.jpg" alt="3rd &amp; Fairfax - Listen &amp; subscribe" title="3rd &amp; Fairfax - Listen &amp; subscribe" class="nocontent" />
+                <div class="mobile-cta">
+                    <h4>3rd &amp; Fairfax</h4>
+                    <p>Listen &amp; subscribe</p>
+                </div>
+            </div>
+        </div>-->
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+    <div id="dashboard" class="nocontent">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="inner"><span class="close"><i class="fa fa-times-circle" aria-hidden="true"></i></span>
+    <div id="dashboard-flyout">
+        <!-- Logged Out -->
+        <div class="col-md-12 col-sm-12 col-xs-12 logged-out animated">
+            <div class="title">
+                <h2 class="merri"><a href="#">Member</a> <span>Dashboard</span></h2>
+            </div>
+            <h3 class="dash">Log in to access myWGA and more</h3>
+            <ul class="arrowed-list light ">
+                <li><a href="https://my.wga.org/"><i class="fa fa-user" aria-hidden="true"></i>myWGA</a></li>
+                <li><a href="https://directories.wga.org/platform"><i class="fa fa-external-link" aria-hidden="true"></i>WGA Platform</a></li>
+                <li><a href="javascript:void(0)"><i class="fa fa-heart" aria-hidden="true"></i>Favorites</a></li>
+            </ul>
+            <!--<button class="btn add-to-dashboard" data-target="#dashboard-favorites" data-toggle="modal" tabindex="-1"><i class="dash-plus"></i> Popular Favorites</button>-->
+        </div>
+        <!-- Logged In -->
+        <div class="col-md-12 col-sm-12 col-xs-12 logged-in active animated">
+            <!-- Account -->
+            <div id="account-content">                
+                <div class="title" style="display: none">
+                    <h2 class="merri">Member <span>Dashboard</span></h2>
+                </div>
+                <div class="notes">
+                    <label>ACCESS:</label>
+                    <span id="user-access"></span>
+                </div>
+                <ul class="arrowed-list light">
+                    <li><a id="myWgaLink" href="https://my.wga.org/"><i class="fa fa-user" aria-hidden="true"></i>myWGA</a></li>
+                    <li><a id="platformLink" href="https://directories.wga.org/platform"><i class="fa fa-external-link" aria-hidden="true"></i>WGA Platform</a></li>
+                    <li><a id="toggle-favorites"><i class="fa fa-heart" aria-hidden="true"></i>Favorites</a></li>
+                    <li><a id="switchAccountLink" href="https://my.wga.org/home/switchAccount.aspx"><i class="fa fa-exchange" aria-hidden="true"></i>Switch Accounts</a></li>
+                    <li><a id="logoutLink" href="https://my.wga.org/home/logout.aspx"><i class="fa fa-sign-out" aria-hidden="true"></i>Logout</a></li>
+                </ul>
+            </div>
+            <!-- Favorites -->
+            <div id="favorites-content" style="display: none;">
+                <a id="return-link">
+                    <i class="fa fa-arrow-left"></i>
+                    Return to Dashboard
+                </a>
+                <div class="title">
+                    <h2 class="merri">My Favorites</h2>
+                </div>
+                <ul id="favorites_list" class="arrowed-list light"></ul>
+                <button class="btn add-to-dashboard" data-target="#dashboard-favorites" data-toggle="modal" tabindex="-1"><i class="dash-plus"></i> Popular Favorites</button>
+                <ul class="secondary-links" style="display:none;">
+                    <li class="clearfix"><a class="pull-left" href="#">Board Minutes</a><span class="date pull-right">July 28</span></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+    <div id="menu-divider"></div>
+    
+	
+    
+    
+    <div class="container-fluid">
+        <div class="row">
+            <div id="content-wrap" class="simple-page">
+                <div class="col-md-3 hidden-sm hidden-xs social nocontent">
+                    <div class="share">
+                        <span>Share this page</span>
+                        <span class='st_facebook_large' displayText='Facebook'><i class="fa fa-facebook-square"></i></span>
+                        <span class='st_email_large' displayText='Email'><i class="fa fa-envelope"></i></span>
+                    </div>
+                </div>
+                <div id="nav-aside" class="nocontent"><ul class="nocontent" data-order="2">
+    <li><a class="main-item">Contracts &amp; Enforcement</a>
+        <ul>
+                    <li><a href="/contracts/contracts" class="accordion">Contracts</a>
+                    <ul class="side-items">
+                                <li><a href="/contracts/contracts/mba" alt="Minimum Basic Agreement">Minimum Basic Agreement</a></li>   
+                                <li><a href="/contracts/contracts/schedule-of-minimums" alt="Schedule of Minimums">Schedule of Minimums</a></li>   
+                                <li><a href="/contracts/contracts/other-contracts" alt="Other Contracts">Other Contracts</a></li>   
+                                <li><a href="https://apps.wga.org/forms/submitcontract.aspx" alt="Submit Your Contract">Submit Your Contract</a></li>   
+                     </ul>
+                </li>
+                    <li><a href="/contracts/enforcement" class="accordion">Enforcement</a>
+                    <ul class="side-items">
+                                <li><a href="/contracts/enforcement/start-button">Start Button</a></li>   
+                                <li><a href="/contracts/enforcement/how-the-guild-tackles-late-pay" alt="Late Pay">Late Pay</a></li>   
+                                <li><a href="/contracts/enforcement/protect-yourself-against-free-work" alt="Free Work">Free Work</a></li>   
+                                <li><a href="/contracts/enforcement/legal-services" alt="Legal Services">Legal Services</a></li>   
+                                <li><a href="/contracts/enforcement/report-a-violation" alt="Report a Violation">Report a Violation</a></li>   
+                                <li><a class="members-only" href="https://my.wga.org/startbutton/InvoiceApplication.aspx" alt="Invoice Tool">Screenwriter Invoice Tool</a></li>   
+                     </ul>
+                </li>
+                    <li><a href="/contracts/know-your-rights" class="accordion">Know Your Rights</a>
+                    <ul class="side-items">
+                                <li><a href="/contracts/know-your-rights/discrimination-harassment-and-workplace-bullying" alt="Discrimination">Discrimination, Harassment &amp; Bullying</a></li>   
+                                <li><a href="/contracts/know-your-rights/parental-leave-related-rights">Parental Leave</a></li>   
+                                <li><a href="/contracts/know-your-rights/creative-rights" alt="Creative Rights">Creative Rights</a></li>   
+                                <li><a href="/contracts/know-your-rights/understanding-separated-rights" alt="Separated Rights">Separated Rights</a></li>   
+                                <li><a href="/contracts/know-your-rights/artificial-intelligence">Artificial Intelligence</a></li>   
+                                <li><a href="/contracts/know-your-rights/know-your-rights-ice-raids">ICE Raids</a></li>   
+                     </ul>
+                </li>
+                    <li><a href="/contracts/credits" class="accordion">Credits</a>
+                    <ul class="side-items">
+                                <li><a href="/contracts/credits/forms" alt="Forms">Forms</a></li>   
+                                <li><a href="/contracts/credits/manuals" alt="Manuals">Manuals</a></li>   
+                     </ul>
+                </li>
+        </ul>
+    </li>
+</ul>
+<ul class="nocontent" data-order="1">
+    <li><a class="main-item">Employers &amp; Agents</a>
+        <ul>
+                    <li><a href="/employers/employers" class="accordion">Employers</a>
+                    <ul class="side-items">
+                                <li><a href="https://directories.wga.org/" alt="Find a Writer">Find a Writer</a></li>   
+                                <li><a href="/employers/employers/what-every-producer-needs-to-know" alt="What Producers Need to Know">What Producers Need to Know</a></li>   
+                                <li><a href="/employers/employers/weekly-worklist-requirement" alt="Weekly Worklist Requirement">Weekly Worklist Requirement</a></li>   
+                                <li><a href="/employers/employers/residuals-payment-report" alt="Residuals Payment Report">Residuals Payment Report</a></li>   
+                                <li><a href="https://apps.wga.org/forms/submitcontractco.aspx" alt="Submit Contracts">Submit Contracts</a></li>   
+                     </ul>
+                </li>
+                    <li><a href="/employers/signatories" class="accordion">Signatories</a>
+                    <ul class="side-items">
+                                <li><a href="/employers/signatories/become-a-signatory" alt="Become a Signatory">Become a Signatory</a></li>   
+                                <li><a href="/employers/signatories/signatory-lookup" alt="Signatory Lookups">Signatory Lookups</a></li>   
+                                <li><a href="/employers/signatories/strike-unfair-list" alt="Strike/Unfair List">Strike/Unfair List</a></li>   
+                     </ul>
+                </li>
+                    <li><a href="/employers/agencies" class="accordion">Agencies</a>
+                    <ul class="side-items">
+                                <li><a href="https://apps.wga.org/agency/agencylist.aspx" alt="Signatory Agency List">Signatory Agency List</a></li>   
+                                <li><a href="/employers/agencies/agency-agreements" alt="Agency Agreements">Agency Agreements</a></li>   
+                                <li><a href="/employers/agencies/become-a-franchised-agency" alt="Become a Franchised Agency">Become a Franchised Agency</a></li>   
+                                <li><a href="/employers/agencies/submit-documents-and-information" alt="Submit Docs &amp; Info">Submit Agency Docs &amp; Info</a></li>   
+                                <li><a href="/employers/agencies/wgaw-rep-report">WGAW Rep Report</a></li>   
+                                <li><a class="members-only" href="https://secure.wga.org/employers/agencies/agency-and-manager-representation-guide">Representation Guide</a></li>   
+                     </ul>
+                </li>
+        </ul>
+    </li>
+</ul>
+<ul class="nocontent" data-order="0">
+    <li><a class="main-item">Members</a>
+        <ul>
+                    <li><a href="/members/membership-information" class="accordion">Membership Information</a>
+                    <ul class="side-items">
+                                <li><a href="/members/membership-information/benefits" alt="Benefits">Benefits</a></li>   
+                                <li><a href="/members/membership-information/constitution" alt="Constitution">Constitution</a></li>   
+                                <li><a href="/members/membership-information/constitution/working-rules">Working Rules</a></li>   
+                                <li><a href="/members/membership-information/committees" alt="Committees">Committees</a></li>   
+                                <li><a href="/members/membership-information/international-members" alt="International Members">International Members</a></li>   
+                                <li><a class="members-only" href="https://secure.wga.org/members/membership-information/communications-to-members">Communications to Members</a></li>   
+                                <li><a href="/members/membership-information/wgaw-wildfire-resources" alt="Wildfire Resources">Wildfire Resources</a></li>   
+                     </ul>
+                </li>
+                    <li><a href="/members/finances" class="accordion">Finances</a>
+                    <ul class="side-items">
+                                <li><a href="https://www.wga.org/members/finances/declaring-your-earnings-for-wgaw-dues" alt="Dues &amp; Earnings">Dues &amp; Earnings</a></li>   
+                                <li><a href="/members/finances/residuals" alt="Residuals">Residuals</a></li>   
+                                <li><a href="/members/finances/good-welfare-emergency-assistance-loans">Good &amp; Welfare Loans</a></li>   
+                     </ul>
+                </li>
+                    <li><a href="/members/employment-resources" class="accordion">Employment Resources</a>
+                    <ul class="side-items">
+                                <li><a href="/members/employment-resources/writers-deal-hub" alt="Writers&#x2019; Deal Hub">The Writers&#x27; Deal Hub</a></li>   
+                                <li><a href="https://directories.wga.org/platform">WGA Platform</a></li>   
+                                <li><a href="/members/employment-resources/ask-a-screenwriter">Ask a Screenwriter</a></li>   
+                                <li><a href="/members/employment-resources/wgaw-project-page">Project Page</a></li>   
+                                <li><a href="/members/employment-resources/screenwriters-handbook" alt="Screenwriters Handbook">Screenwriters Handbook</a></li>   
+                                <li><a href="/members/employment-resources/showrunner-hub">Showrunner Hub</a></li>   
+                     </ul>
+                </li>
+                    <li><a href="/members/programs" class="accordion">Programs</a>
+                    <ul class="side-items">
+                                <li><a href="/members/programs/member-organizing">Member Organizing</a></li>   
+                                <li><a href="/members/membership-information/new-members">New Members</a></li>   
+                                <li><a class="members-only" href="https://secure.wga.org/members/programs/member-organizing/captains-guide" alt="Captains ">Captains Program</a></li>   
+                                <li><a href="/members/programs/showrunner-training" alt="Showrunner Training">Showrunner Training</a></li>   
+                     </ul>
+                </li>
+        </ul>
+    </li>
+</ul>
+<ul class="nocontent" data-order="4">
+    <li><a class="main-item">News &amp; Events</a>
+        <ul>
+                    <li><a href="/news-events/events" class="accordion">Events</a>
+                    <ul class="side-items">
+                                <li><a class="members-only" href="https://secure.wga.org/news-events/events/calendar" alt="Calendar">Calendar</a></li>   
+                                <li><a class="members-only" href="https://secure.wga.org/news-events/events/guild-panels" alt="Guild Panels">Guild Panels</a></li>   
+                                <li><a href="/news-events/events/guild-screenings" alt="Guild Screenings">Guild Screenings</a></li>   
+                     </ul>
+                </li>
+                    <li><a href="/news-events/news" class="accordion">News</a>
+                    <ul class="side-items">
+                                <li><a href="/news-events/news/press" alt="Press Room">Press Room</a></li>   
+                                <li><a href="/news-events/news/buzz" alt="Buzz">Buzz</a></li>   
+                                <li><a href="/news-events/news/in-memoriam" alt="In Memoriam">In Memoriam</a></li>   
+                     </ul>
+                </li>
+                    <li><a class="accordion">Awards</a>
+                    <ul class="side-items">
+                                <li><a href="https://awards.wga.org/awards/nominees-winners" alt="Nominees &amp; Winners">Nominees &amp; Winners</a></li>   
+                                <li><a href="https://awards.wga.org/submissions" alt="Submissions">Submissions</a></li>   
+                                <li><a href="https://awards.wga.org/voting" alt="Voting">Voting</a></li>   
+                                <li><a href="https://awards.wga.org/awards/show-details" alt="Show Details">Show Details</a></li>   
+                                <li><a href="https://awards.wga.org/videos" alt="Highlights">Highlights</a></li>   
+                     </ul>
+                </li>
+        </ul>
+    </li>
+</ul>
+<ul class="nocontent" data-order="3">
+    <li><a class="main-item">The Guild</a>
+        <ul>
+                    <li><a href="/the-guild/about-us" class="accordion">About Us</a>
+                    <ul class="side-items">
+                                <li><a href="/the-guild/about-us/guide-to-the-guild" alt="Guide to the Guild">Guide to the Guild</a></li>   
+                                <li><a href="/the-guild/about-us/contact-us" alt="Contact Us">Contact Us</a></li>   
+                                <li><a href="/the-guild/about-us/faq" alt="FAQs">FAQs</a></li>   
+                                <li><a href="/the-guild/about-us/officers-board-members" alt="Officers and Board">Officers and Board</a></li>   
+                                <li><a class="members-only" href="https://secure.wga.org/the-guild/about-us/annual-report" alt="Annual Report">Annual Report</a></li>   
+                                <li><a href="http://www.writersguildtheater.com/" alt="WGAW Theater">WGAW Theater</a></li>   
+                                <li><a href="http://www.wgawregistry.org/" alt="Register Your Script">Register Your Script</a></li>   
+                                <li><a href="https://www.wgfoundation.org/" alt="Writers Guild Foundation/Library">Foundation &amp; Library</a></li>   
+                                <li><a href="/the-guild/about-us/wgaw-jobs">Jobs</a></li>   
+                                <li><a href="/the-guild/about-us/history" alt="History">History</a></li>   
+                     </ul>
+                </li>
+                    <li><a href="/the-guild/going-guild" class="accordion">Going Guild</a>
+                    <ul class="side-items">
+                                <li><a href="/the-guild/going-guild/join-the-guild" alt="Join">Join</a></li>   
+                                <li><a href="/the-guild/going-guild/get-involved" alt="Get Involved &amp; Organize">Get Involved &amp; Organize</a></li>   
+                                <li><a href="/the-guild/going-guild/get-involved/animation">Animation</a></li>   
+                                <li><a href="/the-guild/going-guild/get-involved/digital-new-media">Digital/New Media</a></li>   
+                                <li><a href="/the-guild/going-guild/get-involved/documentary-nonfiction">Docs &amp; Nonfiction</a></li>   
+                                <li><a href="/the-guild/going-guild/get-involved/independent-film">Indie Film</a></li>   
+                                <li><a href="/the-guild/going-guild/get-involved/podcasts">Podcasts</a></li>   
+                     </ul>
+                </li>
+                    <li><a href="/the-guild/advocacy" class="accordion">Advocacy</a>
+                    <ul class="side-items">
+                                <li><a href="/the-guild/advocacy/inclusion-and-equity" alt="Inclusion and Equity">Inclusion and Equity</a></li>   
+                                <li><a href="/the-guild/advocacy/politics-public-policy-pac" alt="Politics &amp; Public Policy">Politics &amp; Public Policy</a></li>   
+                                <li><a class="members-only" href="https://secure.wga.org/the-guild/advocacy/political-action-committee" alt="Political Action Committee">Political Action Committee</a></li>   
+                     </ul>
+                </li>
+                    <li><a href="/the-guild/levies-payments" class="accordion">Levies &amp; Payments</a>
+                    <ul class="side-items">
+                                <li><a href="/the-guild/levies-payments/foreign-levies-program" alt="Foreign Levies">Foreign Levies</a></li>   
+                                <li><a href="https://apps.wga.org/undeliverables/" alt="Undeliverable Funds">Undeliverable Funds</a></li>   
+                     </ul>
+                </li>
+        </ul>
+    </li>
+</ul>
+<ul class="nocontent" data-order="5">
+    <li><a class="main-item">Writers&#x27; Room</a>
+        <ul>
+                    <li><a href="/writers-room/101-best-lists" class="accordion">101 Best Lists</a>
+                    <ul class="side-items">
+                                <li><a href="/writers-room/101-best-lists/101-greatest-screenplays" alt="Screenplays">Screenplays</a></li>   
+                                <li><a href="/writers-room/101-best-lists/101-best-written-tv-series" alt="TV Shows">TV Shows</a></li>   
+                                <li><a href="/writers-room/101-best-lists/101-funniest-screenplays" alt="Funniest Screenplays">Funniest Screenplays</a></li>   
+                                <li><a href="/writers-room/101-best-lists/101-best-screenplays-of-the-21st-century-so-far" alt="Screenplays of the 21st Century (so far)">Screenplays of the 21st Century (so far)</a></li>   
+                     </ul>
+                </li>
+                    <li><a href="/writers-room/features-columns" class="accordion">Features &amp; Columns</a>
+                    <ul class="side-items">
+                                <li><a href="http://www.writtenby.com" alt="<em>Written by</em>"><em>Written by</em></a></li>   
+                                <li><a href="https://www.writtenby.com/3rd-and-fairfax-podcast" alt="3rd &amp; Fairfax Podcast"><em>3rd &amp; Fairfax</em> Podcast</a></li>   
+                                <li><a href="https://www.youtube.com/user/wgadotorg" alt="WGAW Video">WGAW Video</a></li>   
+                     </ul>
+                </li>
+                    <li><a href="/writers-room/on-the-web" class="accordion">On the Web</a>
+                    <ul class="side-items">
+                                <li><a href="/writers-room/on-the-web/fyi-listings-ask-the-expert" alt="FYI Listings / Ask the Expert">FYI Listings / Ask the Expert</a></li>   
+                                <li><a href="/writers-room/on-the-web/guilds-organizations" alt="Guilds &amp; Organizations">Guilds &amp; Organizations</a></li>   
+                     </ul>
+                </li>
+        </ul>
+    </li>
+</ul>
+</div>
+                <main id="page">
+                    <div id="breadcrumbs" class="nocontent"></div>
+                    <section id="page-content" class="clearfix base-template-wrapper">
+                        
+                        <header id="page-header">
+                            <h2 class="merri">Contracts</h2>
+                            <!--cmson: index -->
+                            <h1 class="merri">
+                                Schedule of Minimums
+                                <!--cmsoff: index -->
+                                <!--cmsoff: index -->
+<button class="btn btn-blank add-to-dashboard hide nocontent" data-id="34039530-fc11-42bf-aa3c-ed7def211d07"><i class="dash-plus"></i>Dashboard</button>
+<button class="btn btn-blank remove-from-dashboard hide nocontent" data-id="34039530-fc11-42bf-aa3c-ed7def211d07"><i class="dash-minus"></i>Dashboard</button>
+<!--cmson: index -->
+                                <!--cmson: index -->
+                            </h1>
+                        </header>
+                        <div class="col-md-12 col-sm-12 col-xs-12">
+    <p><strong>Writers Guild of America 2023 Theatrical and Television Basic Agreement</strong></p>
+
+<p>This schedule covers the entire term of the <a href="/contracts/contracts/mba">2023 Basic Agreement</a>, but is not a substitute for the Basic Agreement. If there is any inconsistency between this schedule and the Basic Agreement, the Basic Agreement controls.</p>
+
+<p><a href="/uploadedFiles/contracts/2023_Schedule_of_Minimums_Year_3.pdf">2023 Schedule of Minimums</a> <i aria-hidden="true" class="fa fa-file-pdf-o" style="color:#333333;">.</i></p>
+
+<p>If you have any questions regarding the application of these provisions or minimums, or relating to categories of minimums not included in this schedule, or if you have a question as to interpretation of the Basic Agreement, contact the <a href="/the-guild/about-us/contact-us/departments/contracts">Contracts Department</a> or call (323) 782-4501.</p>
+
+<p><strong>Previous Schedules of Minimums</strong></p>
+
+<p><a href="/uploadedFiles/contracts/min20.pdf">2020 Schedule of Minimums</a> <i aria-hidden="true" class="fa fa-file-pdf-o" style="color:#333333;">.</i><br>
+<a href="/uploadedFiles/contracts/min2017.pdf">2017 Schedule of Minimums <i aria-hidden="true" class="fa fa-file-pdf-o" style="color:#333333;">.</i></a><br>
+<a href="/uploadedfiles/contracts/2014_schedule_of_minimums.pdf">2014 Schedule of Minimums</a> <i aria-hidden="true" class="fa fa-file-pdf-o" style="color:#333333;">.</i></p>
+
+<p>&nbsp;</p>
+
+</div>
+
+
+                        
+                        
+                        
+                         
+                    </section>
+                    <!--cmsoff: index -->
+                    <aside id="aside" class="striped nocontent">
+                        
+                        <div class="sidebar-block event-list">
+    <h3 class="merri">Upcoming Events</h3>
+    <div class="event-items" style="display:none">
+        
+<div class="event-single merri">
+    <a class="overlay-link" href=""></a>
+    <div class="short-date" data-date="12/8/2025 7:00:00 PM"><i>Dec</i>08</div>
+        <p> Committee of Women Writers Meeting</p>
+</div>
+
+
+<div class="event-single merri">
+    <a class="overlay-link" href=""></a>
+    <div class="short-date" data-date="12/9/2025 7:00:00 PM"><i>Dec</i>09</div>
+        <p>Asian American Writers Committee Meeting</p>
+</div>
+
+
+<div class="event-single merri">
+    <a class="overlay-link" href=""></a>
+    <div class="short-date" data-date="12/11/2025 7:00:00 PM"><i>Dec</i>11</div>
+        <p>Middle Eastern Writers Committee Meeting</p>
+</div>
+
+
+<div class="event-single merri">
+    <a class="overlay-link" href=""></a>
+    <div class="short-date" data-date="12/17/2025 7:30:00 PM"><i>Dec</i>17</div>
+        <p>Jewish Writers Committee Meeting</p>
+</div>
+
+
+<div class="event-single merri">
+    <a class="overlay-link" href=""></a>
+    <div class="short-date" data-date="12/5/2025 9:30:00 PM"><i>Dec</i>05</div>
+        <p>[i]Song Sung Blue[/i]: Guild Screenings Q&amp;A with Craig Brewer</p>
+</div>
+
+
+<div class="event-single merri">
+    <a class="overlay-link" href=""></a>
+    <div class="short-date" data-date="12/7/2025 4:00:00 PM"><i>Dec</i>07</div>
+        <p>[i]Marty Supreme[/i]: Guild Screenings Q&amp;A with Ronald Bronstein &amp; Josh Safdie</p>
+</div>
+
+
+<div class="event-single merri">
+    <a class="overlay-link" href=""></a>
+    <div class="short-date" data-date="12/8/2025 7:00:00 PM"><i>Dec</i>08</div>
+        <p>In Conversation with Congresswoman Sydney Kamlager-Dove</p>
+</div>
+
+
+<div class="event-single merri">
+    <a class="overlay-link" href=""></a>
+    <div class="short-date" data-date="12/12/2025 9:00:00 PM"><i>Dec</i>12</div>
+        <p>[i]Is This Thing On?[/i]: Guild Screenings Q&amp;A with Will Arnett</p>
+</div>
+
+
+<div class="event-single merri">
+    <a class="overlay-link" href=""></a>
+    <div class="short-date" data-date="12/19/2025 9:00:00 PM"><i>Dec</i>19</div>
+        <p>[i]Avatar: Fire and Ash[/i]: Guild Screenings Q&amp;A with Rick Jaffa &amp; Amanda Silver</p>
+</div>
+
+
+<div class="event-single merri">
+    <a class="overlay-link" href=""></a>
+    <div class="short-date" data-date="12/28/2025 3:00:00 PM"><i>Dec</i>28</div>
+        <p>[i]The Housemaid[/i]: Guild Screenings Q&amp;A with Rebecca Sonnenshine</p>
+</div>
+
+
+    </div>
+    <a href="https://secure.wga.org/news-events/events/calendar" style="margin-top:20px;">View all Events</a>
+</div>
+<div class="sidebar-block link-list">
+    <h3 class="merri">Popular Links</h3>
+    <ul>
+    <li>
+    <a href="http://www.wga.org/contracts/contracts/schedule-of-minimums" alt="" title="">Schedule of Minimums</a>
+</li>
+<li>
+    <a href="http://www.wga.org/contracts/contracts/mba" alt="" title="">Minimum Basic Agreement</a>
+</li>
+<li>
+    <a href="http://www.wga.org/members/finances/residuals" alt="" title="">Residuals</a>
+</li>
+<li>
+    <a href="https://www.wga.org/members/finances/declaring-your-earnings-for-wgaw-dues" alt="" title="">Dues &amp; Earnings</a>
+</li>
+<li>
+    <a href="http://www.wga.org/members/employment-resources/writers-deal-hub" alt="Writers&#39; Deal Hub" title="Writers&#39; Deal Hub">Writers&#39; Deal Hub</a>
+</li>
+<li>
+    <a href="http://www.wga.org/the-guild/about-us/faq" alt="" title="">Guild FAQs</a>
+</li>
+<li>
+    <a href="http://www.wga.org/the-guild/about-us/contact-us" alt="" title="">Contact Us</a>
+</li>
+
+</ul>
+
+</div>
+
+                    </aside> 
+                    
+                </main>
+            </div>
+        </div>
+    </div>
+
+    <!--cmsoff: index -->
+    <footer class="nocontent">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-9 col-sm-12 col-xs-12">
+                    
+    <div id="interior-complex-footer" class="col-md-12 col-sm-12 col-xs-12">
+        <ul class="col-md-12 col-sm-12 col-xs-12 merri animated cta-nav">
+            <li><a href="https://directories.wga.org/" class="icon-pay-dues-btn">Find a Writer</a></li>
+            <li><a href="https://apps.wga.org/agency/agencylist.aspx" class="icon-find-agent">Find an Agent</a></li>
+            <li><a href="http://www.wga.org/employers/signatories/signatory-lookup" class="icon-find-writer">Find a Signatory</a></li>
+            <li><a href="http://www.wga.org/the-guild/levies-payments/foreign-levies-program" class="icon-dollar">Find Foreign Levies</a></li>
+        </ul>
+        
+        <div class="share col-md-12 col-sm-12 col-xs-12">
+            <h4>Find us online:</h4>
+            <ul class="fa-2x">
+                
+                <li>
+                    <a href="https://www.facebook.com/WGAWest/" target="_blank"><i class="fa fa-facebook-square"></i></a>
+                </li>
+                
+                <li>
+                    <a href="https://www.instagram.com/wgawest/" target="_blank"><i class="fa fa-instagram"></i></a>
+                </li>
+                <li>
+                    <a href="http://www.youtube.com/wgadotorg" target="_blank"><i class="fa fa-youtube-square"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.threads.net/@writersguildwest" target="_blank"><i class="fa-brands fa-square-threads"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.tiktok.com/@wgawest" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
+                </li>
+                
+            </ul>
+        </div>
+    </div>
+    
+
+                </div>
+                <div class="col-md-3 col-sm-12 col-xs-12">
+                    <ul id="bottom-nav">
+                        <li><a href="#" data-order="0" data-url="/members" target="_self">Members</a></li>
+                        <li><a href="#" data-order="1" data-url="/employers" target="_self" >Employers and Agents</a></li>
+                        <li><a href="#" data-order="2" data-url="/contracts" target="_self">Contracts &amp; Enforcement</a></li>
+                        <li><a href="#" data-order="3" data-url="/the-guild" target="_self">The Guild</a></li>
+                        <li><a href="#" data-order="4" data-url="/news-events" target="_self">News &amp; Events</a></li>
+                        <li><a href="#" data-order="5" data-url="/writers-room" target="_self">Writers' Room</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="https://www.wga.org/the-guild/about-us/contact-us">Contact Us</a></li>
+                        <li><a href="https://www.wga.org/the-guild/about-us/faq">FAQs</a></li>
+                        <li><a href="https://www.wga.org/the-guild/about-us/wgaw-jobs">WGAW Jobs</a></li>
+                        <li><a href="https://shop.worxprinting.coop/collections/writers-guild-of-america-west">STORE</a></li>
+                        <li><a href="https://www.wga.org/the-guild/privacy-policy">Privacy Policy</a></li>
+                        <li><a href="https://www.wga.org/the-guild/terms-of-service">Terms of Service</a></li>
+                    </ul>
+                    <div class="copyright">
+                        <p>© <script>document.write(new Date().getFullYear())</script> Writers Guild of America West.<br />All Rights Reserved.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>  
+    <!-- Dashboard Modal -->
+    <div class="modal fade" id="dashboard-favorites" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">X</span></button>
+                    <h4 class="modal-title" id="myModalLabel">Popular Dashboard Pages</h4>
+                </div>
+                <div class="modal-body">
+                    <ul class="dash-fav">
+    <li>
+    <button class="btn btn-blank add-to-dashboard hide" data-id="fb72ed12-b0b9-472c-a654-28e569ff9c70"><i class="dash-plus"></i>Dashboard</button>
+    <button class="btn btn-blank remove-from-dashboard hide" data-id="fb72ed12-b0b9-472c-a654-28e569ff9c70"><i class="dash-minus"></i>Dashboard</button>
+    <a href="/members/finances/residuals" alt="Residuals" title="Residuals">Residuals</a>
+</li>
+<li>
+    <button class="btn btn-blank add-to-dashboard hide" data-id="e49b38ba-a445-40d5-aacd-1537e3d6e906"><i class="dash-plus"></i>Dashboard</button>
+    <button class="btn btn-blank remove-from-dashboard hide" data-id="e49b38ba-a445-40d5-aacd-1537e3d6e906"><i class="dash-minus"></i>Dashboard</button>
+    <a href="https://secure.wga.org/news-events/events/calendar" alt="Guild Calendar" title="Guild Calendar">Guild Calendar</a>
+</li>
+<li>
+    <button class="btn btn-blank add-to-dashboard hide" data-id="b902920e-780b-4621-b702-a7d7de5f5ad0"><i class="dash-plus"></i>Dashboard</button>
+    <button class="btn btn-blank remove-from-dashboard hide" data-id="b902920e-780b-4621-b702-a7d7de5f5ad0"><i class="dash-minus"></i>Dashboard</button>
+    <a href="/news-events/events/guild-screenings" alt="The Guild Screenings" title="The Guild Screenings">The Guild Screenings</a>
+</li>
+<li>
+    <button class="btn btn-blank add-to-dashboard hide" data-id="cfac796b-641a-4288-b27d-47ca4ae73b63"><i class="dash-plus"></i>Dashboard</button>
+    <button class="btn btn-blank remove-from-dashboard hide" data-id="cfac796b-641a-4288-b27d-47ca4ae73b63"><i class="dash-minus"></i>Dashboard</button>
+    <a href="https://secure.wga.org/members/membership-information/benefits/special-offers" alt="Special Offers" title="Special Offers">Special Offers</a>
+</li>
+<li>
+    <button class="btn btn-blank add-to-dashboard hide" data-id="a8a3bd32-fe0f-40b1-9d64-d899fe15507a"><i class="dash-plus"></i>Dashboard</button>
+    <button class="btn btn-blank remove-from-dashboard hide" data-id="a8a3bd32-fe0f-40b1-9d64-d899fe15507a"><i class="dash-minus"></i>Dashboard</button>
+    <a href="/contracts/know-your-rights/parental-leave-related-rights" alt="Pregnancy &amp; Parenting Leave" title="Pregnancy &amp; Parenting Leave">Pregnancy &amp; Parenting Leave</a>
+</li>
+<li>
+    <button class="btn btn-blank add-to-dashboard hide" data-id="1c0918a7-bb2e-49d5-81e0-eb2f4807e784"><i class="dash-plus"></i>Dashboard</button>
+    <button class="btn btn-blank remove-from-dashboard hide" data-id="1c0918a7-bb2e-49d5-81e0-eb2f4807e784"><i class="dash-minus"></i>Dashboard</button>
+    <a href="/members/membership-information/constitution/working-rules" alt="Code of Working Rules" title="Code of Working Rules">Code of Working Rules</a>
+</li>
+<li>
+    <button class="btn btn-blank add-to-dashboard hide" data-id="bf2fb3b0-3e49-422c-b308-4b2411769b27"><i class="dash-plus"></i>Dashboard</button>
+    <button class="btn btn-blank remove-from-dashboard hide" data-id="bf2fb3b0-3e49-422c-b308-4b2411769b27"><i class="dash-minus"></i>Dashboard</button>
+    <a href="/contracts/credits/manuals/survival-guide" alt="Credits Survival Guide" title="Credits Survival Guide">Credits Survival Guide</a>
+</li>
+
+</ul>
+                    
+                    <!--<ul class="dash-fav">-->
+                    <!--    <li>-->
+                    <!--        <a href="#">Item one</a> <button class="btn btn-blank add-to-dashboard"><i class="dash-plus"></i>Dashboard</button>-->
+                    <!--    </li>-->
+                    <!--    <li>-->
+                    <!--        <a href="#">Item one</a> <button class="btn btn-blank add-to-dashboard"><i class="dash-plus"></i>Dashboard</button>-->
+                    <!--    </li>-->
+                    <!--    <li>-->
+                    <!--        <a href="#">Item one</a> <button class="btn btn-blank add-to-dashboard"><i class="dash-plus"></i>Dashboard</button>-->
+                    <!--    </li>-->
+                    <!--</ul>-->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script type="text/javascript" src="/wga-main/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="/WGA-Main/js/custom.min.js?v=2.2"></script>
+<script type="text/javascript" src="/wga-main/js/navigation.min.js"></script>
+
+<script type="text/javascript" src="/wga-main/js/picturefill.min.js"></script>
+
+<script type="text/javascript" src="/wga-main/js/swiper-element-bundle.min.js"></script>
+<script type="text/javascript" src="/wga-main/js/accordion.min.js"></script>
+
+
+
+
+<script type="text/javascript" src="/js/jquery.jsonp-2.4.0.min.js"></script>
+
+<script type="text/javascript" src="/js/mywgascripts.min.js"></script>
+
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js" SameSite="None"></script>
+<script type="text/javascript">stLight.options({publisher: "53114c60-53e2-4396-a083-a1c44f679d5c", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
+</body>
+</html> 
